@@ -1,0 +1,173 @@
+{
+  "main": {
+    "id": "f68c545ca2ad53d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "e24bce8e29257a8c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "865fabdac0f23ff8",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "dc1c032d8c914d38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "_tail/акт1/8. Крестная.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "adc7100cd0783b3a",
+    "type": "split",
+    "children": [
+      {
+        "id": "45a90cd312abdad9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "03d3f508f43e8e07",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "379a3f16afba694c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "2f69d378868793c1",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "a56bf90bc60e0a66",
+    "type": "split",
+    "children": [
+      {
+        "id": "7a9a007c01bba8a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "38efe214b0259bfd",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "_tail/акт1/8. Крестная.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "765756db9f2e1b3b",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "_tail/акт1/8. Крестная.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "56607c9fce6cdc69",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0eed772a918b7ad2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "_tail/акт1/8. Крестная.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "dc1c032d8c914d38",
+  "lastOpenFiles": [
+    "_tail/акт1/7. Двудушники_ Тарантул.md",
+    "_tail/акт1/8. Крестная.md",
+    "_tail/акт1/6. Крыса.md",
+    "_tail/акт1/5. Ральф.md",
+    "_tail/акт1/4. Briena.md",
+    "_tail/акт1/3. Бледный.md",
+    "_tail/акт1/2. Мишка.md",
+    "_tail/акт1/1. Клара.md",
+    "Заметки 1.md",
+    "Untitled 1",
+    "_tail/акт1",
+    "_tail"
+  ]
+}
