@@ -4,31 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "e24bce8e29257a8c",
+        "id": "ace635f88c81653d",
         "type": "tabs",
         "children": [
           {
-            "id": "865fabdac0f23ff8",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
-          },
-          {
-            "id": "dc1c032d8c914d38",
+            "id": "eb00bdee661d1210",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tail/акт1/8. Крестная.md",
+                "file": "_tail/акт2/Спящая Група/1 Юлия Люричева..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "эгисхьяльмами ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 309.5
   },
   "right": {
     "id": "a56bf90bc60e0a66",
@@ -94,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tail/акт1/8. Крестная.md",
+                "file": "_tail/акт2/Спящая Група/1 Юлия Люричева..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tail/акт1/8. Крестная.md",
+                "file": "_tail/акт2/Спящая Група/1 Юлия Люричева..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -134,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tail/акт1/8. Крестная.md"
+                "file": "_tail/акт2/Спящая Група/1 Юлия Люричева..md"
               }
             }
           }
@@ -155,19 +146,35 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "dc1c032d8c914d38",
+  "active": "eb00bdee661d1210",
   "lastOpenFiles": [
-    "_tail/акт1/7. Двудушники_ Тарантул.md",
-    "_tail/акт1/8. Крестная.md",
+    "_tail/мех/Как убить в себе кукушку/Структура персов.md",
+    "_tail/мех/Как убить в себе кукушку/Сценарий.md",
+    "_tail/мех/Как убить в себе кукушку/Игры_Сказка_Oбёртка.md",
+    "_tail/мех/Как убить в себе кукушку/Игра.md",
+    "_tail/акт2/Спящая Група/2 Тарантул.md",
+    "_tail/мех/Как убить в себе кукушку",
+    "_tail/мех",
+    "it/code/tz/CHI IT Academy - ml course/internship2023.pdf",
+    "it/code/tz/CHI IT Academy - ml course",
+    "it/code/tz",
+    "it/code",
+    "it",
+    "_tail/акт2/Спящая Група/1 Юлия Люричева..md",
+    "_tail/акт2/Спящая Група/заметки СГ.md",
+    "_tail/акт2/Спящая Група/0 Спящая Група.md",
+    "_tail/акт2/Спящая Група/Заметки Мор.md",
+    "_tail/акт2/Спящая Група",
     "_tail/акт1/6. Крыса.md",
+    "_tail/акт2",
+    "_tail/акт1/8. Крестная.md",
+    "_tail/акт1/7. Двудушники_ Тарантул.md",
     "_tail/акт1/5. Ральф.md",
     "_tail/акт1/4. Briena.md",
     "_tail/акт1/3. Бледный.md",
     "_tail/акт1/2. Мишка.md",
     "_tail/акт1/1. Клара.md",
     "Заметки 1.md",
-    "Untitled 1",
-    "_tail/акт1",
-    "_tail"
+    "Untitled 1"
   ]
 }
