@@ -1,1 +1,10 @@
-{}
+{
+  "templater-obsidian:obsi-pattern/Templater.md": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "-"
+    }
+  ]
+}
