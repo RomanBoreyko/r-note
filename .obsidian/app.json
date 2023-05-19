@@ -1,4 +1,5 @@
 {
   "tabSize": 4,
-  "promptDelete": false
+  "promptDelete": false,
+  "alwaysUpdateLinks": true
 }

@@ -1,21 +1,64 @@
 {
   "main": {
-    "id": "f68c545ca2ad53d9",
+    "id": "cc3a0b15b71589c2",
     "type": "split",
     "children": [
       {
-        "id": "40efb8d8ff77f533",
+        "id": "e30c21e26c0296e1",
         "type": "tabs",
+        "dimension": 59.466911764705884,
         "children": [
           {
-            "id": "ce7f5804ba07a3c5",
+            "id": "73fa2afc55995cbd",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tail/акт2/0 Спящая Група/1 Юлия Люричева..md",
+                "file": "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md",
                 "mode": "source",
                 "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "ee3201c5c6e6da27",
+        "type": "tabs",
+        "dimension": 40.533088235294116,
+        "children": [
+          {
+            "id": "8faa912da8243ac8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 5,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": true,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 0.380729166666667,
+                  "lineSizeMultiplier": 1.2484375,
+                  "collapse-forces": false,
+                  "centerStrength": 0,
+                  "repelStrength": 0,
+                  "linkStrength": 1,
+                  "linkDistance": 221,
+                  "scale": 0.5087618855792595,
+                  "close": true
+                }
               }
             }
           }
@@ -25,15 +68,15 @@
     "direction": "vertical"
   },
   "left": {
-    "id": "adc7100cd0783b3a",
+    "id": "4b77afe90efae749",
     "type": "split",
     "children": [
       {
-        "id": "45a90cd312abdad9",
+        "id": "a1f3899ce3260256",
         "type": "tabs",
         "children": [
           {
-            "id": "03d3f508f43e8e07",
+            "id": "2d57f2927954979f",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,12 +86,12 @@
             }
           },
           {
-            "id": "379a3f16afba694c",
+            "id": "1ec1f99aad8aa6c1",
             "type": "leaf",
             "state": {
               "type": "search",
               "state": {
-                "query": "эгисхьяльмами ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -58,7 +101,7 @@
             }
           },
           {
-            "id": "2f69d378868793c1",
+            "id": "45b4819036d7716e",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +112,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 227.5
+    "width": 234.5
   },
   "right": {
-    "id": "a56bf90bc60e0a66",
+    "id": "ae78e9df3e97ab8f",
     "type": "split",
     "children": [
       {
-        "id": "7a9a007c01bba8a0",
+        "id": "f25735e48fb2fb36",
         "type": "tabs",
         "children": [
           {
-            "id": "38efe214b0259bfd",
+            "id": "eee7a289f8c655d2",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tail/акт2/0 Спящая Група/1 Юлия Люричева..md",
+                "file": "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +140,19 @@
             }
           },
           {
-            "id": "765756db9f2e1b3b",
+            "id": "a836dc898b34efd2",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tail/акт2/0 Спящая Група/1 Юлия Люричева..md",
+                "file": "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "56607c9fce6cdc69",
+            "id": "948ed0cee1aad456",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +163,12 @@
             }
           },
           {
-            "id": "0eed772a918b7ad2",
+            "id": "ada119dceb6441ca",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tail/акт2/0 Спящая Група/1 Юлия Люричева..md"
+                "file": "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md"
               }
             }
           }
@@ -147,44 +190,52 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "ce7f5804ba07a3c5",
+  "active": "73fa2afc55995cbd",
   "lastOpenFiles": [
-    "_tail/акт2/0 Спящая Група/00 Тарантул.md",
-    "_tail/акт2/0 Спящая Група/2 Тарантул.md",
-    "_tail/акт2/0 Спящая Група/Заметки Мор.md",
-    "_tail/акт2/0 Спящая Група/заметки СГ.md",
-    "_tail/акт2/0 Спящая Група/1 Юлия Люричева..md",
-    "_tail/акт2/0 Спящая Група/0 Спящая Група.md",
-    "_tail/акт1/5. Ральф.md",
-    "_tail/акт2/1 Русалочка и Принц/1 Тихосрань.md",
-    "Заметки 1.md",
-    "obsi-pattern/Templater.md",
-    "Untitled 1.canvas",
-    "2023-05-17.md",
+    "_tail/2. Бек/инфа/функции/Фокус.md",
+    "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md",
+    "_tail/2. Бек/инфа/локации/Лестница в небо.md",
+    "StairwayGut1.webp",
+    "StairwaySpleen.webp",
+    "Stairway_remake_concept_art.webp",
+    "_tail/2. Бек/инфа/локации/Скорлупа.md",
+    "_tail/2. Бек/инфа/заметки/-0 структура.md",
+    "_tail/2. Бек/инфа/локации/Столица.md",
+    "_tail/2. Бек/инфа/функции/Скорлупа.md",
+    "_tail/2. Бек/инфа/функции/Штрафы.md",
+    "_tail/2. Бек/инфа/локации/Серый Дом.md",
+    "_tail/2. Бек/инфа/группы/Связанные.md",
+    "_tail/2. Бек/инфа/группы/Сонная Группа.md",
+    "_tail/2. Бек/инфа/локации/Собор.md",
+    "Cathedral_concept_art.webp",
+    "Polyhedron_cathedral_opening.webp",
+    "Demo_screenshot_6.webp",
+    "_tail/2. Бек/инфа/роли/Мара.md",
+    "_tail/2. Бек/инфа/роли/Юлия Люричева.md",
+    "_tail/2. Бек/инфа/локации/бойни.md",
+    "_tail/2. Бек/инфа/локации/Горны.md",
+    "_tail/2. Бек/инфа/локации/Город.md",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/6. Серый Дом.md",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/4. Город.md",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/3. Степь.md",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/5. Бойни.md",
+    "_tail/1. Фронт/акт2 Сцены/0 Спящая Група/5. Бойни",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/1. Столица..md",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/люди",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/0. Страна.md",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/2. Холодный Хол.md",
+    "_tail/2. Бек/инфа/локации/Омут.md",
+    "Stillwater.webp",
+    "_tail/2. Бек/инфа/функции",
+    "_tail/2. Бек/инфа/заметки",
+    "_tail/2. Бек/инфа/группы",
+    "_tail/2. Бек/инфа/локации",
+    "_tail/2. Бек/инфа/роли",
+    "_tail/2. Бек/инфа",
+    "_tail/Логи",
     "SteppeMap.webp",
     "Untitled.canvas",
-    "Untitled 2",
-    "Untitled",
-    "obsi-pattern",
-    "Новая папка",
-    "_tail/акт1/1. Клара.md",
-    "_tail/акт2/0 Спящая Група/заметки караван и стаматины.md",
-    "_tail/мех/Как убить в себе кукушку/Игра.md",
-    "_tail/мех/Как убить в себе кукушку/Сценарий.md",
-    "_tail/акт2/1 Русалочка и Принц/2 Лес - Рыжая.md",
-    "_tail/акт2/1 Русалочка и Принц",
-    "_tail/мех/Как убить в себе кукушку/Структура персов.md",
-    "_tail/мех/Как убить в себе кукушку/Игры_Сказка_Oбёртка.md",
-    "_tail/мех/Как убить в себе кукушку",
-    "_tail/мех",
-    "it/code/tz/CHI IT Academy - ml course/internship2023.pdf",
-    "it/code/tz/CHI IT Academy - ml course",
-    "it/code/tz",
-    "_tail/акт1/6. Крыса.md",
-    "_tail/акт1/8. Крестная.md",
-    "_tail/акт1/7. Двудушники_ Тарантул.md",
-    "_tail/акт1/4. Briena.md",
-    "_tail/акт1/3. Бледный.md",
-    "_tail/акт1/2. Мишка.md"
+    "Untitled 1.canvas",
+    "_tail/2. Бек"
   ]
 }
