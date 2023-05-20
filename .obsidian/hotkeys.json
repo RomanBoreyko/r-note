@@ -2,7 +2,7 @@
   "templater-obsidian:obsi-pattern/Templater.md": [
     {
       "modifiers": [
-        "Mod"
+        "Alt"
       ],
       "key": "-"
     }
