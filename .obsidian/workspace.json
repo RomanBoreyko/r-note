@@ -8,54 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "8faa912da8243ac8",
-            "type": "leaf",
-            "state": {
-              "type": "localgraph",
-              "state": {
-                "file": "_tail/2. Бек/инфа/роли/Инквизиторы/Герман Орф.md",
-                "options": {
-                  "collapse-filter": false,
-                  "search": "",
-                  "localJumps": 5,
-                  "localBacklinks": true,
-                  "localForelinks": true,
-                  "localInterlinks": true,
-                  "showTags": true,
-                  "showAttachments": true,
-                  "hideUnresolved": false,
-                  "collapse-color-groups": true,
-                  "colorGroups": [],
-                  "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.380729166666667,
-                  "lineSizeMultiplier": 1.2484375,
-                  "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 0,
-                  "linkStrength": 1,
-                  "linkDistance": 221,
-                  "scale": 1.000000000000003,
-                  "close": true
-                }
-              }
-            }
-          },
-          {
-            "id": "f8765f2adfe40e1f",
+            "id": "ef8ce2f0dad27831",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_tail/2. Бек/инфа/роли/Инквизиторы/Герман Орф.md",
+                "file": "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 321.5
+    "width": 266.5
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -121,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tail/2. Бек/инфа/роли/Инквизиторы/Герман Орф.md",
+                "file": "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,9 +102,44 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tail/2. Бек/инфа/роли/Инквизиторы/Герман Орф.md",
+                "file": "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "80ad6298f45805c8",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md",
+                "options": {
+                  "collapse-filter": true,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": true,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": true,
+                  "showAttachments": true,
+                  "hideUnresolved": true,
+                  "collapse-color-groups": true,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 0.7132754626224428,
+                  "close": true
+                }
               }
             }
           },
@@ -161,16 +160,16 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_tail/2. Бек/инфа/роли/Инквизиторы/Герман Орф.md"
+                "file": "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 400.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -183,38 +182,47 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "2d57f2927954979f",
+  "active": "80ad6298f45805c8",
   "lastOpenFiles": [
-    "_tail/2. Бек/инфа/роли/Инквизиторы",
-    "_tail/2. Бек/инфа/роли/Untitled.md",
-    "_tail/2. Бек/инфа/группы/Власти.md",
-    "_tail/2. Бек/инфа/группы/Авроксы.md",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/2. Степь.md",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/Бойни.md",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/Холодный Хол.md",
-    "_tail/2. Бек/инфа/роли/Не погребенный Удург.md",
-    "_tail/2. Бек/инфа/локации/бойни.md",
+    "_tail/2. Бек/инфа/роли/Начальство/Следак.md",
+    "_tail/2. Бек/мех/Как убить в себе кукушку/Игра.md",
+    "_tail/2. Бек/мех/Как убить в себе кукушку/Игры_Сказка_Oбёртка.md",
+    "_tail/2. Бек/мех/Как убить в себе кукушку/Сценарий.md",
+    "_tail/2. Бек/мех/Как убить в себе кукушку/Структура персов.md",
+    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/люди/1 Юлия Люричева..md",
+    "_tail/2. Бек/инфа/роли/Сонная Группа/Юлия Люричева.md",
+    "_tail/Логи/Логи.md",
     "_tail/2. Бек/инфа/функции/Игры.md",
+    "_tail/2. Бек/инфа/функции/Точки Входа в Лес.md",
+    "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md",
+    "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md",
+    "_tail/2. Бек/инфа/заметки/-0 структура.md",
+    "_tail/2. Бек/инфа/заметки/Акт 2 Шаблон.md",
+    "Заметки 1.md",
+    "_tail/2. Бек/инфа/роли/Сонная Группа",
+    "_tail/2. Бек/инфа/роли/Начальство",
+    "_tail/2. Бек/инфа/локации/Город/Собор.md",
+    "_tail/2. Бек/инфа/локации/Наружность/Untitled",
+    "_tail/2. Бек/инфа/локации/Скорлупа.md",
+    "_tail/2. Бек/инфа/локации/Город/Омут.md",
+    "_tail/2. Бек/инфа/локации/Город/Город.md",
+    "_tail/2. Бек/инфа/локации/Столица/Столица.md",
+    "_tail/2. Бек/инфа/локации/Город",
+    "_tail/2. Бек/инфа/локации/Власти/Лес.md",
+    "_tail/2. Бек/инфа/локации/Столица",
+    "_tail/2. Бек/инфа/локации/Наружность/Наружность.md",
+    "_tail/2. Бек/инфа/локации/Наружность/Мертвый Дом.md",
+    "_tail/2. Бек/инфа/роли/Алиены/Дует.md",
+    "_tail/2. Бек/инфа/локации/Наружность",
+    "_tail/2. Бек/инфа/локации/Власти",
+    "_tail/2. Бек/инфа/роли/Власти/Дети Власти",
+    "_tail/2. Бек/инфа/роли/Власти/Попутчик.md",
+    "_tail/2. Бек/инфа/роли/Алиены",
+    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/шабнак.md",
+    "_tail/2. Бек/инфа/роли/Власти",
     "Abattoir_concept_art.webp",
-    "_tail/2. Бек/инфа/локации/термитник.md",
     "Abattoir-art-remake.webp",
     "Abattoir_Aerial_View.webp",
-    "_tail/2. Бек/инфа/локации/Страна.md",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/люди/1 Юлия Люричева..md",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/люди/2 Следак.md",
-    "_tail/2. Бек/инфа/группы/Стаматины.md",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/0. Страна.md",
-    "_tail/2. Бек/инфа/локации/Столица.md",
-    "_tail/2. Бек/инфа/локации/Степь.md",
-    "_tail/2. Бек/инфа/группы/Сонная Группа.md",
-    "_tail/2. Бек/инфа/заметки/заметки Акт3.md",
-    "_tail/2. Бек/инфа/заметки/хронология Мор.md",
-    "_tail/2. Бек/инфа/локации/Пассажирская станция.md",
-    "_tail/2. Бек/инфа/функции/Точки Входа в Лес.md",
-    "_tail/2. Бек/инфа/группы/Перекидыши.md",
-    "_tail/2. Бек/инфа/локации/Многогранник.md",
-    "_tail/2. Бек/инфа/локации/Город.md",
-    "_tail/2. Бек/инфа/роли/Серый Дом",
     "SteppeMap 1.webp",
     "StairwayGut1.webp",
     "StairwaySpleen.webp",
@@ -222,15 +230,6 @@
     "Cathedral_concept_art.webp",
     "Polyhedron_cathedral_opening.webp",
     "Demo_screenshot_6.webp",
-    "_tail/1. Фронт/акт2 Сцены/0 Спящая Група/5. Бойни",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/люди",
-    "_tail/2. Бек/инфа/функции",
-    "_tail/2. Бек/инфа/заметки",
-    "_tail/2. Бек/инфа/группы",
-    "_tail/2. Бек/инфа/локации",
-    "_tail/2. Бек/инфа/роли",
-    "_tail/2. Бек/инфа",
-    "_tail/Логи",
     "Untitled.canvas",
     "Untitled 1.canvas"
   ]
