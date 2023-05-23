@@ -11,12 +11,8 @@
             "id": "39c4c457fbaebba4",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "_tail/2. Бек/инфа/заметки/-0 структура.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#МашинаТМ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 280.5
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_tail/2. Бек/инфа/заметки/-0 структура.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_tail/2. Бек/инфа/заметки/-0 структура.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "_tail/2. Бек/инфа/заметки/-0 структура.md"
-              }
+              "state": {}
             }
           },
           {
@@ -135,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "_tail/2. Бек/инфа/заметки/-0 структура.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -158,8 +149,8 @@
                   "repelStrength": 8.95833333333333,
                   "linkStrength": 0.458333333333333,
                   "linkDistance": 245,
-                  "scale": 0.3628873693012128,
-                  "close": true
+                  "scale": 0.5087618855792606,
+                  "close": false
                 }
               }
             }
@@ -169,7 +160,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,53 +176,52 @@
   },
   "active": "39c4c457fbaebba4",
   "lastOpenFiles": [
-    "_tail/2. Бек/инфа/роли/Начальство/Следак.md",
+    "_tail/Stairway_remake_concept_art.webp",
+    "ПГ.md",
+    "_tail/2. Бек/инфа/группы/Сонная Группа.md",
+    "_tail/2. Бек/инфа/функции/Фокус Внутренний Покой.md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Страна Тюрьма.md",
+    "70.md",
     "_tail/2. Бек/инфа/заметки/-0 структура.md",
-    "_tail/2. Бек/инфа/локации/горхон/Город.md",
-    "_tail/2. Бек/инфа/локации/Страна.md",
-    "_tail/2. Бек/инфа/роли/Сонная Группа/Юлия Люричева.md",
-    "_tail/2. Бек/мех/yuse/href.md",
-    "_tail/2. Бек/мех/yuse",
-    "_tail/2. Бек/инфа/локации/Степь.md",
-    "_tail/1. Фронт/акт2 Локации/0. Страна.md",
-    "_tail/1. Фронт/акт2 Локации/0 Спящая Група/1. Столица..md",
-    "_tail/2. Бек/инфа/локации/горхон.md",
-    "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md",
-    "_tail/2. Бек/инфа/группы/Начальство.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/Альбинос.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/Клара.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/Крысинный Пророк.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/Мара.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/Не погребенный Аврокс.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/самозванка.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/чума.md",
-    "_tail/2. Бек/инфа/роли/Власти/Дети Власти/шабнак.md",
-    "_tail/2. Бек/инфа/роли/Власти/Попутчик.md",
-    "_tail/2. Бек/инфа/роли/Власти/Ячмень и Грибок.md",
-    "_tail/2. Бек/инфа/локации/Власти/ПГ_Леса.md",
+    "_tail/2. Бек/инфа/заметки/3.3. Горхон. Степь..md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Степь.md",
+    "_tail/2. Бек/инфа/заметки/3.2. Структура Пустыри..md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Столица/Пустыри.md",
+    "_tail/2. Бек/инфа/заметки/3. Акт 2 Шаблон.md",
+    "_tail/2. Бек/инфа/заметки/3.1. Структура Серый Дом.md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Власти/ПГ_Леса.md",
+    "_tail/2. Бек/инфа/заметки/1. хроно крос.md",
     "_tail/2. Бек/инфа/роли/Сонная Группа/Тарантул.md",
-    "_tail/2. Бек/инфа/локации/Столица/Серый Дом.md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Столица/Серый Дом.md",
+    "_tail/2. Бек/инфа/группы/Лилич.md",
+    "_tail/2. Бек/инфа/заметки/2. хронология Мор.md",
+    "_tail/2. Бек/инфа/группы/ПараГрибница.md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Власти/ПГ_Столицы.md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/горхон степь/термитник.md",
+    "Юлия Люричева^.md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Скорлупа.md",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма",
     "_tail/2. Бек/инфа/группы/Спящие.md",
+    "_tail/2. Бек/инфа/роли/Начальство/Инквизиторы/Герман Орф.md",
+    "_tail/SteppeMap 1.webp",
+    "_tail/2. Бек/мех/yuse",
     "_tail/2. Бек/инфа/роли/Сонная Группа",
     "_tail/2. Бек/инфа/роли/Начальство",
     "_tail/2. Бек/инфа/локации/Наружность/Untitled",
-    "_tail/2. Бек/инфа/локации/горхон",
-    "_tail/2. Бек/инфа/локации/Столица",
-    "_tail/2. Бек/инфа/локации/Наружность",
-    "_tail/2. Бек/инфа/локации/Власти",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/горхон степь",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Столица",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Наружность",
+    "_tail/2. Бек/инфа/локации/Страна Тюрьма/Власти",
     "_tail/2. Бек/инфа/роли/Власти/Дети Власти",
-    "_tail/2. Бек/инфа/роли/Алиены",
-    "Abattoir_concept_art.webp",
-    "Abattoir-art-remake.webp",
-    "Abattoir_Aerial_View.webp",
-    "SteppeMap 1.webp",
-    "StairwayGut1.webp",
-    "StairwaySpleen.webp",
-    "Stairway_remake_concept_art.webp",
-    "Cathedral_concept_art.webp",
-    "Polyhedron_cathedral_opening.webp",
-    "Demo_screenshot_6.webp",
-    "Untitled.canvas",
-    "Untitled 1.canvas"
+    "_tail/Abattoir_concept_art.webp",
+    "_tail/Abattoir-art-remake.webp",
+    "_tail/Abattoir_Aerial_View.webp",
+    "_tail/StairwayGut1.webp",
+    "_tail/StairwaySpleen.webp",
+    "_tail/Cathedral_concept_art.webp",
+    "_tail/Polyhedron_cathedral_opening.webp",
+    "_tail/Demo_screenshot_6.webp",
+    "_tail/Untitled.canvas",
+    "_tail/Untitled 1.canvas"
   ]
 }
