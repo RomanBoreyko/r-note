@@ -28,12 +28,10 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=2212;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FЗаметки%201.md;0;4
-FILE_NAME_1=1148;C++;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2FMDW.cpp;0;4
+current_page=0
 
 [VTE]
-last_dir=/home/r0-bl
+last_dir=/home/r0-bl/Downloads/r-note/ДоХХХХоrm/4_core
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
