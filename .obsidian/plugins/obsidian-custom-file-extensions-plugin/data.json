@@ -1,0 +1,27 @@
+{
+  "additionalFileTypes": {
+    "markdown": [
+      "",
+      "txt",
+      "html",
+      "js",
+      "css",
+      "ts",
+      "jsx",
+      "tsx",
+      "yaml",
+      "yml",
+      "sass",
+      "cs",
+      "csproj.nuget.dgspec.json",
+      ".json",
+      "csproj",
+      "targets",
+      "assets",
+      "cache",
+      "cpp",
+      "scss"
+    ]
+  },
+  "currentValueIsInvalidJson": false
+}
