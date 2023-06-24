@@ -8,27 +8,18 @@
         "type": "tabs",
         "children": [
           {
-            "id": "22a860d8705d8a6c",
+            "id": "671fa5529d565730",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ДоХХХХоrm/4_core/MDW.cpp",
+                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "671fa5529d565730",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -57,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Герман",
+                "query": "Отчет МСИ",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 387.5110321044922,
+    "width": 268.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -95,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -111,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -132,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ДоХХХХоrm/4_core/MDW-2.cpp"
+              }
             }
           },
           {
@@ -141,6 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -190,6 +186,14 @@
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
+    "ДоХХХХоrm/4_core/MDW-1.cpp",
+    "ДоХХХХоrm/4_core/MDW-2.cpp",
+    "ДоХХХХоrm/2Бек/инфа/роли/Начальство/Инквизиторы/Отчет Орфа.md",
+    "ДоХХХХоrm/4_core/мех/чучела/Чучело.md",
+    "ДоХХХХоrm/4_core/мех/Мех Чучело Домовцев.canvas",
+    "ДоХХХХоrm/4_core/мех/чучела",
+    "Мех Чучело Домовцев.png",
+    "Уклад.md",
     "ДоХХХХоrm/2Бек/акт1_Костюмы/8_Крестная.md",
     "ДоХХХХоrm/2Бек/акт1_Костюмы/7_Двудушники-Тарантул.md",
     "ДоХХХХоrm/2Бек/акт1_Костюмы/6_Крыса.md",
@@ -209,8 +213,6 @@
     "ДоХХХХоrm/2Бек/инфа/функции/Бардо Суок.md",
     "ДоХХХХоrm/4_core/Udurgh/U_Metropolis/U_Metropolis.cpp",
     "ДоХХХХоrm/4_core/Udurgh/Udurgh.cpp",
-    "Мех Чучело Домовцев.png",
-    "Уклад.md",
     "MDW.pdf",
     "r-proj",
     "ДоХХХХоrm/3_грязные-тулзы/Struktura.md",
@@ -218,16 +220,10 @@
     "ДоХХХХоrm/3_грязные-тулзы/PersPattern.md",
     "ДоХХХХоrm/3_грязные-тулзы/PatternLichnosti.md",
     "ДоХХХХоrm/3_грязные-тулзы/moreMoreExtracts.md",
-    "ДоХХХХоrm/3_грязные-тулзы/mehPower.md",
-    "ДоХХХХоrm/3_грязные-тулзы/mehSceny.md",
-    "ДоХХХХоrm/3_грязные-тулзы/infoLesTests.md",
     "ДоХХХХоrm/4_core/Templ/T_Suit/T_Suit.cpp",
-    "ДоХХХХоrm/4_core/MDW.cpp",
-    "ДоХХХХоrm/4_core/мех/Мех Чучело Домовцев.canvas",
     "ДоХХХХоrm/2Бек/инфа/заметки/черновики",
     "ДоХХХХоrm/2Бек/инфа/группы/Сущьности/ПГ/Администрация/дети Администрации",
     "ДоХХХХоrm/2Бек/инфа/группы/Сущьности/ПГ/Администрация",
-    "ДоХХХХоrm/2Бек/инфа/группы/Сущьности/ПГ/Начальство",
     "Pasted image 20230619191442.png",
     "Pasted image 20230619190602.png",
     "Pasted image 20230619190514.png",
