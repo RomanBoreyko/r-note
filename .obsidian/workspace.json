@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
+                "file": "ДоХХХХоrm/4_core/MDW-1.md",
                 "mode": "source",
                 "source": false
               }
@@ -69,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 268.5110321044922,
+    "width": 372.5110321044922,
     "collapsed": true
   },
   "right": {
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
+                "file": "ДоХХХХоrm/4_core/MDW-1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
+                "file": "ДоХХХХоrm/4_core/MDW-1.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ДоХХХХоrm/4_core/MDW-2.cpp"
+                "file": "ДоХХХХоrm/4_core/MDW-1.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ДоХХХХоrm/4_core/MDW-2.cpp",
+                "file": "ДоХХХХоrm/4_core/MDW-1.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -155,11 +155,11 @@
                   "nodeSizeMultiplier": 1,
                   "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0.447916666666667,
-                  "repelStrength": 8.95833333333333,
-                  "linkStrength": 0.458333333333333,
-                  "linkDistance": 245,
-                  "scale": 0.5087618855792606,
+                  "centerStrength": 0,
+                  "repelStrength": 14.1684511063526,
+                  "linkStrength": 1,
+                  "linkDistance": 30,
+                  "scale": 0.3391745903861729,
                   "close": false
                 }
               }
@@ -170,8 +170,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 697.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,14 +185,35 @@
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
-    "ДоХХХХоrm/4_core/MDW-1.cpp",
-    "ДоХХХХоrm/4_core/MDW-2.cpp",
+    "ДоХХХХоrm/2Бек/инфа/группы/Лилич.md",
+    "ДоХХХХоrm/4_core/MDW-1.md",
+    "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/люди/Нина Лилич.md",
     "ДоХХХХоrm/2Бек/инфа/роли/Начальство/Инквизиторы/Отчет Орфа.md",
+    "img/Pasted image 20230619185651.png",
+    "ДоХХХХоrm/2Бек/инфа/группы/Сущьности/ПГ/Власти/Дети Власти/Авроксы.md",
+    "img/SteppeMap.webp",
+    "img",
+    "img/Pasted image 20230619190425.png",
+    "img/Pasted image 20230619190456.png",
+    "img/Pasted image 20230619190514.png",
+    "img/Pasted image 20230619190602.png",
+    "r-proj",
+    "img/Pasted image 20230619191442.png",
+    "img/Мех Чучело Домовцев.png",
+    "Уклад.md",
+    "MDW.pdf",
+    "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/люди/Заметка Тарантула 1..md",
+    "ДоХХХХоrm/2Бек/инфа/локации/Страна Тюрьма/Столица/Серый Дом.md",
+    "ДоХХХХоrm/2Бек/инфа/функции/Внутренний Покой. Фокус..md",
+    "ДоХХХХоrm/2Бек/инфа/функции/Бардо Суок.md",
+    "ДоХХХХоrm/2Бек/инфа/функции/Линии.md",
+    "ДоХХХХоrm/4_core/MDW-2.cpp",
+    "ДоХХХХоrm/2Бек/инфа/группы/Котел/Контесса.md",
+    "ДоХХХХоrm/2Бек/инфа/группы/Котел",
+    "ДоХХХХоrm/4_core/MDW-1.md.cpp",
     "ДоХХХХоrm/4_core/мех/чучела/Чучело.md",
     "ДоХХХХоrm/4_core/мех/Мех Чучело Домовцев.canvas",
     "ДоХХХХоrm/4_core/мех/чучела",
-    "Мех Чучело Домовцев.png",
-    "Уклад.md",
     "ДоХХХХоrm/2Бек/акт1_Костюмы/8_Крестная.md",
     "ДоХХХХоrm/2Бек/акт1_Костюмы/7_Двудушники-Тарантул.md",
     "ДоХХХХоrm/2Бек/акт1_Костюмы/6_Крыса.md",
@@ -205,34 +225,13 @@
     "ДоХХХХоrm/2Бек/инфа/функции/Сквозная дыра.md",
     "ДоХХХХоrm/2Бек/инфа/функции/Магия шардов.md",
     "ДоХХХХоrm/2Бек/инфа/функции/Штрафы.md",
-    "ДоХХХХоrm/2Бек/инфа/функции/Фокус Внутренний Покой.md",
     "ДоХХХХоrm/2Бек/инфа/функции/Точки Входа в Лес.md",
-    "ДоХХХХоrm/2Бек/инфа/функции/Линии.md",
     "ДоХХХХоrm/2Бек/инфа/функции/Игры.md",
-    "ДоХХХХоrm/2Бек/инфа/функции/Забытый Кризис.md",
-    "ДоХХХХоrm/2Бек/инфа/функции/Бардо Суок.md",
     "ДоХХХХоrm/4_core/Udurgh/U_Metropolis/U_Metropolis.cpp",
     "ДоХХХХоrm/4_core/Udurgh/Udurgh.cpp",
-    "MDW.pdf",
-    "r-proj",
-    "ДоХХХХоrm/3_грязные-тулзы/Struktura.md",
-    "Фокус Внутренний Покой^.md",
-    "ДоХХХХоrm/3_грязные-тулзы/PersPattern.md",
-    "ДоХХХХоrm/3_грязные-тулзы/PatternLichnosti.md",
-    "ДоХХХХоrm/3_грязные-тулзы/moreMoreExtracts.md",
     "ДоХХХХоrm/4_core/Templ/T_Suit/T_Suit.cpp",
-    "ДоХХХХоrm/2Бек/инфа/заметки/черновики",
-    "ДоХХХХоrm/2Бек/инфа/группы/Сущьности/ПГ/Администрация/дети Администрации",
-    "ДоХХХХоrm/2Бек/инфа/группы/Сущьности/ПГ/Администрация",
-    "Pasted image 20230619191442.png",
-    "Pasted image 20230619190602.png",
-    "Pasted image 20230619190514.png",
-    "Pasted image 20230619190456.png",
-    "Pasted image 20230619190425.png",
-    "Pasted image 20230619185651.png",
     "ДоХХХХоrm/2Бек/img/Stairway_remake_concept_art.webp",
     "ДоХХХХоrm/2Бек/img/SteppeMap 1.webp",
-    "ДоХХХХоrm/2Бек/img/Abattoir_concept_art.webp",
     "ДоХХХХоrm/2Бек/img/Untitled.canvas",
     "ДоХХХХоrm/2Бек/img/Untitled 1.canvas"
   ]
