@@ -28,10 +28,12 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=0
+current_page=1
+FILE_NAME_0=16968;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2F0м.%200.%20Фольклор%20к%20R%28comedy%29..md;0;4
+FILE_NAME_1=26271;C++;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2F0м.%201.%20Фольклор%20к%20R%28comedy%29..cpp;0;4
 
 [VTE]
-last_dir=/home/r0-bl/.ssh
+last_dir=/home/r0-bl/Downloads/r-note/ДоХХХХоrm/4_core
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
