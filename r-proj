@@ -28,12 +28,13 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=1
-FILE_NAME_0=16968;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2F0м.%200.%20Фольклор%20к%20R%28comedy%29..md;0;4
-FILE_NAME_1=26271;C++;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2F0м.%201.%20Фольклор%20к%20R%28comedy%29..cpp;0;4
+current_page=0
+FILE_NAME_0=3680;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Flist-of-head%2F0-dom-truppa-breena.md;0;4
+FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FСценарий.md;0;4
+FILE_NAME_2=11681;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FСтруктура-ТИгры.md;0;4
 
 [VTE]
-last_dir=/home/r0-bl/Downloads/r-note/ДоХХХХоrm/4_core
+last_dir=/home/r0-bl/Downloads/r-note/ДоХХХХоrm/4_core/list-of-head
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
