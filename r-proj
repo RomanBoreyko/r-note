@@ -28,16 +28,32 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=5
-FILE_NAME_0=3948;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Flist-of-head%2F0-dom-truppa-breena.md;0;4
-FILE_NAME_1=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FСценарий.md;0;4
-FILE_NAME_2=11681;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FСтруктура-ТИгры.md;0;4
-FILE_NAME_3=11743;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Flist-of-head%2F0-zodhiy-ollongo.md;0;4
-FILE_NAME_4=0;C++;0;EUTF-8;1;1;1;%2Fusr%2Finclude%2Fmalloc.h;0;4
-FILE_NAME_5=0;None;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr0_cod%2Fadmin%2Fcmd%2Fstart%20bunsenlabs.txt;0;4
+current_page=21
+FILE_NAME_0=1713;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FСтруктура-ТИгры.md;0;4
+FILE_NAME_1=1341;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FСтруктура-персов.md;0;4
+FILE_NAME_2=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FСценарий.md;0;4
+FILE_NAME_3=760;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FИгра.md;0;4
+FILE_NAME_4=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FКак%20убить%20в%20себе%20кукушку%2FИгры_Сказка_Oбёртка.md;0;4
+FILE_NAME_5=0;None;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2FМех%20Чучело%20Домовцев.canvas;0;4
+FILE_NAME_6=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2Fyuse%2Fhref.md;0;4
+FILE_NAME_7=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F4_core%2Fмех%2Fчучела%2FЧучело.md;0;4
+FILE_NAME_8=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FmoreMoreExtracts.md;0;4
+FILE_NAME_9=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FmehSceny.md;0;4
+FILE_NAME_10=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FmehPower.md;0;4
+FILE_NAME_11=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FinfoLesTests.md;0;4
+FILE_NAME_12=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FextractsDraftDom.md;0;4
+FILE_NAME_13=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FdomKarta.md;0;4
+FILE_NAME_14=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2Fdom-ландшафт.md;0;4
+FILE_NAME_15=1848;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FStruktura.md;0;4
+FILE_NAME_16=812;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FPersPattern.md;0;4
+FILE_NAME_17=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FPatternLichnosti.md;0;4
+FILE_NAME_18=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F3_грязные-тулзы%2FInfoDomCoridors.md;0;4
+FILE_NAME_19=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FДоХХХХоrm%2F2Бек%2Fакт1_Костюмы%2F1_Briena.md;0;4
+FILE_NAME_20=0;None;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2FC1_W2_Lab_1_beyond_hello_world.ipynb;0;4
+FILE_NAME_21=0;Markdown;0;EUTF-8;1;1;1;%2Fhome%2Fr0-bl%2FDownloads%2Fr-note%2FУклад.md;0;4
 
 [VTE]
-last_dir=/home/r0-bl/Downloads/r0_cod/admin/cmd
+last_dir=/home/r0-bl/Downloads/r-note
 
 [prjorg]
 source_patterns=*.c;*.C;*.cpp;*.cxx;*.c++;*.cc;*.m;
