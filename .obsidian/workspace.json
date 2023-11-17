@@ -11,12 +11,8 @@
             "id": "671fa5529d565730",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ]
@@ -48,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Отчет МСИ",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,8 +65,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 358.5
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -86,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp"
-              }
+              "state": {}
             }
           },
           {
@@ -136,7 +127,6 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -152,26 +142,25 @@
                   "collapse-display": true,
                   "showArrow": true,
                   "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "nodeSizeMultiplier": 0.6359375,
+                  "lineSizeMultiplier": 1.29947916666667,
                   "collapse-forces": false,
                   "centerStrength": 0,
                   "repelStrength": 14.1684511063526,
                   "linkStrength": 1,
                   "linkDistance": 30,
                   "scale": 0.3391745903861729,
-                  "close": false
+                  "close": true
                 }
               }
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 697.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,56 +169,55 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false,
-      "templater-obsidian:Templater": false
+      "command-palette:Open command palette": false
     }
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
-    "ДоХХХХоrm/4_core/0м. 0. Фольклор к R(comedy)..md",
-    "ДоХХХХоrm/4_core/0м. 1. Фольклор к R(comedy)..cpp",
-    "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/люди/1_Юлия-Люричева-леттер.md",
-    "ДоХХХХоrm/2Бек/инфа/группы/Удурги/ПГ/Власти/Дети Власти/Авроксы.md",
-    "ДоХХХХоrm/2Бек/инфа/функции/Линии.md",
-    "ДоХХХХоrm/2Бек/инфа/группы/Удурги/ПГ/Власти/Дети Власти/Аврокс.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/термитник.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Театр.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Сугаг Хадуг.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Собор.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Омут.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Многогранник.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Лестница-в-небо.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Кладбище.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Дом-Смерти.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/горхон.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Город.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/Горны.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/бойни.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/Страна.md",
-    "ДоХХХХоrm/2Бек/инфа/локации/Страна/горхон степь/4_Город.md",
-    "ДоХХХХоrm/2Бек/инфа/группы/Стаматины.md",
-    "ДоХХХХоrm/2Бек/инфа/группы/Удурги/Сущьность Хранителя Времени.md",
-    "ДоХХХХоrm/2Бек/инфа/группы/Сонная Группа/Внутренний Покой",
-    "ДоХХХХоrm/2Бек/инфа/группы/Удурги/ПГ/ПараГрибницы.md",
-    "ДоХХХХоrm/2Бек/инфа/черновики/kain.md",
-    "ДоХХХХоrm/2Бек/инфа/группы/Удурги/ПГ/Власти/Дети Власти/Не погребенный Аврокс.md",
+    "arch-road/Arch/Arch.md",
+    "arch-road/R_arch",
+    "arch-road/Arch/2-R_struktura/2-R_struktura.md",
+    "arch-road/Arch/2-R_struktura/-R_struktura",
+    "arch-road/Arch/1-Teatr/1-Teatr.md",
+    "arch-road/Arch/2-R_struktura/-R_struktura/14-R0_ad- АктА. ты, цели, Презентация. Инструменты. Ландшафт. Игры. Учасники. Отправление.md",
+    "arch-road/Arch/1-Teatr/-Teatr/6- Тема-.md",
+    "arch-road/Arch/2-Teatr/Untitled.md",
+    "arch-road/Arch/1-Teatr/-Teatr",
+    "arch-road/Arch/0-spec/0-spec.md",
+    "arch-road/R_.md",
+    "arch-road/Arch/0-spec/-spec/1- Арка-.md",
+    "arch-road/Arch/0-spec/-spec",
+    "arch-road/Arch/8-Prop/14-Prop- I. Один из членов семьи отлучается из дома (отлучка, е).md",
+    "arch-road/Arch/7-Kembel/14-Kembel- 2.1. Импульс. Нарушение- Возникает проблема или нарушение обыденного порядка.md",
+    "arch-road/Arch/7-Kembel/14-Kembel- 1. Мир обыденной рутины. Состояние начальное. Вводится информация о персонажах и их обстоятельствах.md",
+    "arch-road/Arch/7-Kembel/14-Kembel- 0. База. Состояние начальное. Обыденный мир. Представление обыденного состояния героя.md",
+    "arch-road/Arch/6-Fishki/14-Fishki- Первый Абзац.md",
+    "arch-road/Arch/5-Bern/14-Bern- AglayaLilitch.md",
+    "arch-road/Arch/6-Fishki",
+    "arch-road/Arch/4-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
+    "arch-road/Arch/2-R_struktura",
+    "arch-road/Arch/4-Trip",
+    "arch-road/Arch/1-Teatr/-Teatr/13- _Конфликт- гпт.md",
+    "arch-road/Arch/1-Teatr/-Teatr/12- ГПТ_контр-сквозное-действие.md",
+    "arch-road/Arch/1-Teatr/-Teatr/11- _Контр-свозное-действие.md",
+    "arch-road/Arch/1-Teatr/-Teatr/10- _Действие.md",
+    "arch-road/Arch/1-Teatr/-Teatr/9- _Сквозное-действие.md",
+    "arch-road/Arch/1-Teatr/-Teatr/8- _Сверх-задача.md",
+    "arch-road/Arch/1-Teatr/-Teatr/7- _Идея.md",
+    "arch-road/Narration",
+    "arch-road/Vkus",
+    "arch-road/Arch",
+    "arch-road/Arch/0-spec/-spec/5- Событие-.md",
+    "arch-road/Arch/0-spec/-spec/4- Цели-.md",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
-    "img",
     "img/Pasted image 20230619190425.png",
     "img/Pasted image 20230619190456.png",
     "img/Pasted image 20230619190514.png",
     "img/Pasted image 20230619190602.png",
-    "r-proj",
     "img/Pasted image 20230619191442.png",
     "img/Мех Чучело Домовцев.png",
-    "MDW.pdf",
-    "ДоХХХХоrm/2Бек/инфа/группы/Котел",
-    "ДоХХХХоrm/4_core/MDW-1.md.cpp",
     "ДоХХХХоrm/4_core/мех/Мех Чучело Домовцев.canvas",
-    "ДоХХХХоrm/4_core/мех/чучела",
-    "ДоХХХХоrm/4_core/Udurgh/U_Metropolis/U_Metropolis.cpp",
-    "ДоХХХХоrm/4_core/Udurgh/Udurgh.cpp",
     "ДоХХХХоrm/2Бек/img/Stairway_remake_concept_art.webp",
     "ДоХХХХоrm/2Бек/img/SteppeMap 1.webp",
     "ДоХХХХоrm/2Бек/img/Untitled.canvas",
