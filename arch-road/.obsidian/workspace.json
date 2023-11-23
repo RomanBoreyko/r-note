@@ -13,13 +13,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arch/7-Prop/-Prop/14-Prop- I. Один из членов семьи отлучается из дома (отлучка, е).md",
+                "file": "Arch/6-Kembel/-Kembel/14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ebaab27b05935eaf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Narration/3-GermanOrf/2. Орф. 14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +82,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 393.5
   },
   "right": {
     "id": "02a8844ffb7b8839",
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arch/7-Prop/-Prop/14-Prop- I. Один из членов семьи отлучается из дома (отлучка, е).md",
+                "file": "Narration/3-GermanOrf/2. Орф. 14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arch/7-Prop/-Prop/14-Prop- I. Один из членов семьи отлучается из дома (отлучка, е).md",
+                "file": "Narration/3-GermanOrf/2. Орф. 14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arch/7-Prop/-Prop/14-Prop- I. Один из членов семьи отлучается из дома (отлучка, е).md"
+                "file": "Narration/3-GermanOrf/2. Орф. 14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md"
               }
             }
           }
@@ -146,26 +159,43 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "44b53f204596e277",
+  "active": "ebaab27b05935eaf",
   "lastOpenFiles": [
+    "Narration/3-GermanOrf/1. орф 14-Kembel- 3. Отказ от призыва.md",
+    "Arch/7-Prop/-Prop/14-Prop- III. Запрет нарушается (нарушение, b).md",
+    "Arch/6-Kembel/-Kembel/14-Kembel- 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
+    "Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
+    "Narration/3-GermanOrf/0. Глашатай Орф 15-Fishki-.md",
+    "Narration/3-GermanOrf/2. Орф. 14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
+    "Narration/3-GermanOrf/Untitled",
+    "Narration/3-GermanOrf/GermanOrf.md",
+    "Narration/1-AglayaLilitch/0.1. База. 14-Kembel AglayaLilitch.md",
+    "Arch/6-Kembel/-Kembel/14-Kembel- 3. Отказ от призыва.md",
+    "Arch/6-Kembel/-Kembel/14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
+    "Narration/2-MarkBessmertnik/2.2. Призыв к приключению и II. запрет, б mixin MarkBessmertnik.md",
+    "Arch/7-Prop/-Prop/14-Propp- II. К герою обращаются с запретом (запрет, б).md",
     "Arch/7-Prop/7-Prop.md",
-    "Arch/7-Prop/-Prop/14-Prop- I. Один из членов семьи отлучается из дома (отлучка, е).md",
+    "Arch/5-Fishki/-Fishki/15-Fishki- Глашатай.md",
+    "AglayaLilitch 15-Fishki- Глашатай.md",
+    "Arch/5-Fishki/-Fishki/14-Fishki- Первый Абзац.md",
+    "Narration/2-MarkBessmertnik/MarkBessmertnik.md",
+    "Narration/1-AglayaLilitch/0. Первый Абзац. 14-Fishki AglayaLilitch.md",
+    "Narration/1-AglayaLilitch/1. Мир обыденной рутины. 14-Kembel AglayaLilitch.md",
+    "Narration/1-AglayaLilitch/AglayaLilitch.md",
+    "Narration/2-MarkBessmertnik/2.1. Импульс и I. Отлучка,е mixin MarkBessmertnik.md",
+    "Arch/6-Kembel/-Kembel/14-Kembel- 2.2. Призыв к приключению..md",
+    "Arch/6-Kembel/-Kembel/14-Kembel- 2.1. Импульс. Нарушение-.md",
     "Arch/6-Kembel/6-Kembel.md",
-    "Arch/5-Fishki/5-Fishki.md",
-    "Arch/4-Bern/4-Bern.md",
-    "Arch/3-Trip/3-Trip.md",
-    "Arch/2-R_struktura/2-R_struktura.md",
-    "Arch/1-Teatr/1-Teatr.md",
-    "Arch/0-spec/-spec/2- Эпизод-.md",
-    "Arch/0-spec/0-spec.md",
-    "Arch/Arch.md",
-    "Arch/7-Prop/-Prop",
-    "Arch/6-Kembel/-Kembel/14-Kembel- 0. База. Состояние начальное. Обыденный мир. Представление обыденного состояния героя.md",
-    "Arch/6-Kembel/-Kembel",
-    "Arch/5-Fishki/-Fishki",
-    "Arch/4-Bern/-Bern/14-Bern- AglayaLilitch.md",
-    "Arch/4-Bern/-Bern",
-    "Arch/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
-    "Arch/3-Trip/-Trip"
+    "Narration/MarkBessmertnik/-R_struktura/MarkBessmertnik 14-R0_ad- АктА.md",
+    "Narration/MarkBessmertnik/-Kembel/1. Мир обыденной рутины MarkBessmertnik 14-Kembel-.md",
+    "Narration/3-GermanOrf",
+    "Narration/2-MarkBessmertnik/-spec",
+    "Narration/MarkBessmertnik/-R_struktura",
+    "Narration/MarkBessmertnik/mixin",
+    "Narration/MarkBessmertnik/-Kembel",
+    "Narration/MarkBessmertnik/-Fishki",
+    "Narration/2-MarkBessmertnik",
+    "Narration/AglayaLilitch/mixin",
+    "Narration/AglayaLilitch/-Kembel"
   ]
 }
