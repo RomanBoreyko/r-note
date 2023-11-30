@@ -11,8 +11,12 @@
             "id": "671fa5529d565730",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md"
+              }
             }
           },
           {
@@ -127,6 +135,7 @@
             "state": {
               "type": "localgraph",
               "state": {
+                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -175,6 +184,11 @@
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
+    "arch-road/Narration/3-GermanOrf/2. Орф. 14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
+    "arch-road/Narration/1-AglayaLilitch/0.1. База. 14-Kembel AglayaLilitch.md",
+    "arch-road/Narration/1-AglayaLilitch/0. Первый Абзац. 14-Fishki AglayaLilitch.md",
+    "arch-road/Narration/1-AglayaLilitch/-R_struktura/AglayaLilitch 14-R0_ad- АктА.md",
+    "arch-road/Narration/3-GermanOrf/1. орф 14-Kembel- 3. Отказ от призыва.md",
     "arch-road/Arch/Arch.md",
     "arch-road/R_arch",
     "arch-road/Arch/2-R_struktura/2-R_struktura.md",
@@ -203,13 +217,9 @@
     "arch-road/Arch/1-Teatr/-Teatr/11- _Контр-свозное-действие.md",
     "arch-road/Arch/1-Teatr/-Teatr/10- _Действие.md",
     "arch-road/Arch/1-Teatr/-Teatr/9- _Сквозное-действие.md",
-    "arch-road/Arch/1-Teatr/-Teatr/8- _Сверх-задача.md",
-    "arch-road/Arch/1-Teatr/-Teatr/7- _Идея.md",
     "arch-road/Narration",
     "arch-road/Vkus",
     "arch-road/Arch",
-    "arch-road/Arch/0-spec/-spec/5- Событие-.md",
-    "arch-road/Arch/0-spec/-spec/4- Цели-.md",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
     "img/Pasted image 20230619190425.png",
