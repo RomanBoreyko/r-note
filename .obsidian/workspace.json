@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
+                "file": "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 358.5
+    "width": 383.5
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
+                "file": "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
+                "file": "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md"
+                "file": "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
+                "file": "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -186,10 +186,12 @@
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
+    "arch-road/Arch/6-Kembel/-Kembel/14-Kembel- 4.1. Помощь или запрет..md",
+    "arch-road/Arch/Arch.md",
     "arch-road/Arch/0-idea/-idea/-Bern- Тревоги нет.md",
     "arch-road/Arch/0-idea/-idea/-Bern- естественная форма.md",
     "arch-road/Arch/0-idea/-idea/-Bern- Делай как я.md",
-    "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех Нужно только открыть.md",
+    "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех.md",
     "arch-road/Arch/0-idea/0-idea.md",
     "arch-road/Arch/6-Kembel/-Kembel/14-Kembel- 2.1. Импульс. Нарушение-.md",
     "arch-road/Arch/4-Bern/-Bern/14-Bern- Тревоги нет.md",
@@ -213,8 +215,6 @@
     "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- план, твердость духа, доблесть.md",
     "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- Примаматерия. Алхимия..md",
     "arch-road/Arch/4-Bern/-Bern/14-Bern- естественная форма.md",
-    "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- Оборотень..md",
-    "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- Глашатай.md",
     "arch-road/R_arch",
     "arch-road/Arch/2-R_struktura/-R_struktura",
     "arch-road/Arch/1-Teatr/-Teatr",
