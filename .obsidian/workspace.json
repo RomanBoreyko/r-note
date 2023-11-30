@@ -13,8 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
+                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
                 "mode": "source",
+                "backlinks": true,
                 "source": false
               }
             }
@@ -85,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
+                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
+                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md"
+                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md"
               }
             }
           },
@@ -135,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Narration/3-GermanOrf/3. Orf 4.1. Помощь или запрет. Герою предлагается помощь или дается запрет на выполнение задачи..md",
+                "file": "arch-road/Narration/3-GermanOrf/3.  4.1. Помощь или запрет.  Orf.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -169,7 +170,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5
+    "width": 278.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,42 +186,42 @@
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
-    "arch-road/Narration/3-GermanOrf/2. Орф. 14-Kembel- 4. Встреча с наставником. Герой встречает наставника, который предоставляет ему знания и инструменты..md",
-    "arch-road/Narration/1-AglayaLilitch/0.1. База. 14-Kembel AglayaLilitch.md",
-    "arch-road/Narration/1-AglayaLilitch/0. Первый Абзац. 14-Fishki AglayaLilitch.md",
-    "arch-road/Narration/1-AglayaLilitch/-R_struktura/AglayaLilitch 14-R0_ad- АктА.md",
-    "arch-road/Narration/3-GermanOrf/1. орф 14-Kembel- 3. Отказ от призыва.md",
-    "arch-road/Arch/Arch.md",
+    "arch-road/Arch/0-idea/-idea/-Bern- Тревоги нет.md",
+    "arch-road/Arch/0-idea/-idea/-Bern- естественная форма.md",
+    "arch-road/Arch/0-idea/-idea/-Bern- Делай как я.md",
+    "arch-road/Arch/0-idea/-idea/-Bern- Взрослый есть у всех Нужно только открыть.md",
+    "arch-road/Arch/0-idea/0-idea.md",
+    "arch-road/Arch/6-Kembel/-Kembel/14-Kembel- 2.1. Импульс. Нарушение-.md",
+    "arch-road/Arch/4-Bern/-Bern/14-Bern- Тревоги нет.md",
+    "arch-road/Arch/0-idea/-idea/14-Bern- естественная форма.md",
+    "arch-road/Arch/0-idea/-idea/14-Bern- Тревоги нет.md",
+    "arch-road/Arch/0-idea/-idea/14-Bern- Делай как я.md",
+    "arch-road/Arch/0-idea/-idea/14-Bern- Взрослый есть у всех Нужно только открыть.md",
+    "arch-road/Arch/0-idea/-idea/14-Bern- AglayaLilitch.md",
+    "arch-road/Arch/0-idea/-idea",
+    "arch-road/Arch/0-idea/4-Bern.md",
+    "arch-road/Arch/0-idea/-Bern/14-Bern- Делай как я.md",
+    "arch-road/Arch/0-idea/-Bern/14-Bern- Взрослый есть у всех Нужно только открыть.md",
+    "arch-road/Arch/0-idea/-Bern/14-Bern- Тревоги нет.md",
+    "arch-road/Arch/0-idea/-Bern/14-Bern- естественная форма.md",
+    "arch-road/Arch/0-idea/-Bern/14-Bern- AglayaLilitch.md",
+    "arch-road/Arch/0-idea/-Bern",
+    "arch-road/Arch/0-idea",
+    "arch-road/Arch/7-Prop/-Prop/14-Prop- III. Запрет нарушается (нарушение, b).md",
+    "arch-road/Arch/6-Kembel/-Kembel/14-Kembel- 1. Мир обыденной рутины.md",
+    "arch-road/Arch/3-Trip/3-Trip.md",
+    "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- план, твердость духа, доблесть.md",
+    "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- Примаматерия. Алхимия..md",
+    "arch-road/Arch/4-Bern/-Bern/14-Bern- естественная форма.md",
+    "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- Оборотень..md",
+    "arch-road/Arch/5-Fishki/-Fishki/15-Fishki- Глашатай.md",
     "arch-road/R_arch",
-    "arch-road/Arch/2-R_struktura/2-R_struktura.md",
     "arch-road/Arch/2-R_struktura/-R_struktura",
-    "arch-road/Arch/1-Teatr/1-Teatr.md",
-    "arch-road/Arch/2-R_struktura/-R_struktura/14-R0_ad- АктА. ты, цели, Презентация. Инструменты. Ландшафт. Игры. Учасники. Отправление.md",
-    "arch-road/Arch/1-Teatr/-Teatr/6- Тема-.md",
-    "arch-road/Arch/2-Teatr/Untitled.md",
     "arch-road/Arch/1-Teatr/-Teatr",
-    "arch-road/Arch/0-spec/0-spec.md",
-    "arch-road/R_.md",
-    "arch-road/Arch/0-spec/-spec/1- Арка-.md",
     "arch-road/Arch/0-spec/-spec",
-    "arch-road/Arch/8-Prop/14-Prop- I. Один из членов семьи отлучается из дома (отлучка, е).md",
-    "arch-road/Arch/7-Kembel/14-Kembel- 2.1. Импульс. Нарушение- Возникает проблема или нарушение обыденного порядка.md",
-    "arch-road/Arch/7-Kembel/14-Kembel- 1. Мир обыденной рутины. Состояние начальное. Вводится информация о персонажах и их обстоятельствах.md",
-    "arch-road/Arch/7-Kembel/14-Kembel- 0. База. Состояние начальное. Обыденный мир. Представление обыденного состояния героя.md",
-    "arch-road/Arch/6-Fishki/14-Fishki- Первый Абзац.md",
-    "arch-road/Arch/5-Bern/14-Bern- AglayaLilitch.md",
     "arch-road/Arch/6-Fishki",
-    "arch-road/Arch/4-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
     "arch-road/Arch/2-R_struktura",
     "arch-road/Arch/4-Trip",
-    "arch-road/Arch/1-Teatr/-Teatr/13- _Конфликт- гпт.md",
-    "arch-road/Arch/1-Teatr/-Teatr/12- ГПТ_контр-сквозное-действие.md",
-    "arch-road/Arch/1-Teatr/-Teatr/11- _Контр-свозное-действие.md",
-    "arch-road/Arch/1-Teatr/-Teatr/10- _Действие.md",
-    "arch-road/Arch/1-Teatr/-Teatr/9- _Сквозное-действие.md",
-    "arch-road/Narration",
-    "arch-road/Vkus",
-    "arch-road/Arch",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
     "img/Pasted image 20230619190425.png",

@@ -4,9 +4,31 @@
   "showTags": true,
   "showAttachments": true,
   "hideUnresolved": true,
-  "showOrphans": false,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "path:arch-road/Arch  ",
+      "color": {
+        "a": 1,
+        "rgb": 11745123
+      }
+    },
+    {
+      "query": "path:arch-road/Narration  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "path:arch-road/Narration/1-AglayaLilitch  ",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": true,
   "textFadeMultiplier": -3,
@@ -17,6 +39,6 @@
   "repelStrength": 8.33333333333333,
   "linkStrength": 0.591145833333333,
   "linkDistance": 374,
-  "scale": 0.060915888001711695,
+  "scale": 0.200225830078125,
   "close": false
 }
