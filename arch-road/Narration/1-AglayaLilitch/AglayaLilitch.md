@@ -8,5 +8,3 @@
 [[14-R0_ad- АктА AglayaLilitch]]
 [[0.1. База. 14-Kembel AglayaLilitch]]
 [[1. Мир обыденной рутины. 14-Kembel AglayaLilitch]]
-[[2.1. Импульс и I. Отлучка,е mixin MarkBessmertnik]]
-[[2.2. Призыв к приключению и II. запрет, б mixin MarkBessmertnik]]
