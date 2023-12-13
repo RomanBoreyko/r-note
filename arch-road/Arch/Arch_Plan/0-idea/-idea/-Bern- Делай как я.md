@@ -1,5 +1,5 @@
 
-[[0-idea]]
+[[arch-road/Arch/Arch_Plan/0-idea/0-idea]]
 
 Делай не как я а как я говорю
 

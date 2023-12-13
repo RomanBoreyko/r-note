@@ -1,3 +1,3 @@
 
 Нужно только открыть
-[[0-idea]]
+[[arch-road/Arch/Arch_Plan/0-idea/0-idea]]
