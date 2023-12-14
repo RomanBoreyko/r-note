@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1. Импульс и I. Отлучка,е mixin.md",
+                "file": "arch-road/Arch/Arch_-2/Сейчас/aglaya.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1. Импульс и I. Отлучка,е mixin.md",
+                "file": "arch-road/Arch/Arch_-2/Сейчас/aglaya.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1. Импульс и I. Отлучка,е mixin.md",
+                "file": "arch-road/Arch/Arch_-2/Сейчас/aglaya.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1. Импульс и I. Отлучка,е mixin.md"
+                "file": "arch-road/Arch/Arch_-2/Сейчас/aglaya.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1. Импульс и I. Отлучка,е mixin.md",
+                "file": "arch-road/Arch/Arch_-2/Сейчас/aglaya.md",
                 "options": {
                   "collapse-filter": true,
                   "search": "",
@@ -185,6 +185,9 @@
   },
   "active": "671fa5529d565730",
   "lastOpenFiles": [
+    "arch-road/Arch/Arch_-2/Потом/Аглая/Аглая.md",
+    "arch-road/Arch/Arch_-2/Сейчас/aglaya.md",
+    "arch-road/Arch/Arch_-2/2-/2.1. Импульс и I. Отлучка,е mixin.md",
     "arch-road/Arch/Arch_-2/2-/2.2. Призыв к приключению и II. запрет, б mixin.md",
     "arch-road/Arch/Arch_-2/3- 14-Kembel-1-5-end-of-the-enter/1.1. 14-Kembel- 2.2. Призыв к приключению./1.3. 14-Kembel- 2.2. 5. Глашатай/0. 15-Fishki- Глашатай Орф.md",
     "arch-road/Arch/Arch_-2/3- 14-Kembel-1-5-end-of-the-enter/1.1. 14-Kembel- 1. Мир обыденной рутины /1.1. 14-Kembel- 1. 3.1. Жажда/1.1. 14-Kembel- 1. 3. жажда. Тарантул.md",
@@ -198,7 +201,6 @@
     "arch-road/Arch/Arch_-2/3- 14-Kembel-1-5-end-of-the-enter/1.1. 14-Kembel- 1. Мир обыденной рутины /1.1. 14-Kembel- 1. 3. золото/1.1. 14-Kembel- 1. 3. золото. -spec .md",
     "arch-road/Arch/Arch_-2/1-/AglayaLilitch.md",
     "arch-road/Arch/Arch_-2/2-MarkBessmertnik/MarkBessmertnik.md",
-    "arch-road/Arch/Arch_-2/2-/2.1. Импульс и I. Отлучка,е mixin.md",
     "arch-road/Arch/Arch_Plan/5-Fishki/5-Fishki.md",
     "arch-road/Arch/Arch_Plan/5-Fishki/-Fishki/15-Fishki- Новые скилы и чудо вещь..md",
     "arch-road/Arch/Arch_Plan/5-Fishki/-Fishki/15-Fishki- Оборотень..md",
@@ -209,8 +211,6 @@
     "arch-road/Arch/Arch_-2/1-/0.  Первый Абзац. 14-Fishki..md",
     "arch-road/Arch/Arch_Plan/6-Kembel/-Kembel/14-Kembel- 2.2. Призыв к приключению..md",
     "arch-road/Arch/Arch_Plan/7-Prop/-Prop/14-Prop- II. К герою обращаются с запретом (запрет, б).md",
-    "arch-road/Arch/Arch_-2/1-/1.2. Мир обыденной рутины. 14-Kembel..md",
-    "arch-road/Arch/Arch_-2/2-/0. 14-Fishki- Первый Абзац.md",
     "arch-road/Arch/Arch_-2/Потом/Марк",
     "arch-road/Arch/Arch_-2/Потом/Орф/Untitled",
     "arch-road/Arch/Arch_-2/Потом/Орф",
