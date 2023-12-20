@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "f300a92f4f14afe8",
+        "id": "d1c2603fc6ba6d8b",
         "type": "tabs",
         "children": [
           {
-            "id": "671fa5529d565730",
+            "id": "45e98d0f552ba1a8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1..md",
+                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -49,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#14-R0_ad-АктА",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -70,8 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 351.5,
-    "collapsed": true
+    "width": 423.5110321044922
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -87,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1..md",
+                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1..md",
+                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -127,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1..md"
+                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md"
               }
             }
           },
@@ -137,39 +136,46 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/2-/2.1..md",
+                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
-                  "localJumps": 3,
+                  "localJumps": 2,
                   "localBacklinks": true,
                   "localForelinks": true,
-                  "localInterlinks": true,
+                  "localInterlinks": false,
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": true,
                   "collapse-color-groups": false,
                   "colorGroups": [
                     {
-                      "query": "path:arch-road/Arch/Arch_Plan  ",
+                      "query": "tag:#Вход  ",
                       "color": {
                         "a": 1,
                         "rgb": 14701138
                       }
+                    },
+                    {
+                      "query": "path:\"arch-road/Arch/Arch_Plan(порвать)\"  ",
+                      "color": {
+                        "a": 1,
+                        "rgb": 14725458
+                      }
                     }
                   ],
                   "collapse-display": true,
-                  "showArrow": true,
-                  "textFadeMultiplier": -3,
-                  "nodeSizeMultiplier": 0.801249107780157,
-                  "lineSizeMultiplier": 1.01875,
+                  "showArrow": false,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
                   "collapse-forces": false,
-                  "centerStrength": 0,
-                  "repelStrength": 0,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 500,
-                  "scale": 0.3003387451171875,
-                  "close": false
+                  "linkDistance": 250,
+                  "scale": 0.4770433222708742,
+                  "close": true
                 }
               }
             }
@@ -179,7 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 675.5
+    "width": 677.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -192,44 +198,44 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80ad6298f45805c8",
+  "active": "45e98d0f552ba1a8",
   "lastOpenFiles": [
-    "arch-road/Arch/Arch_-2/2-/2.2. Призыв к приключению и II. запрет, б mixin.md",
-    "arch-road/Arch/Arch_-2/2-/2.1..md",
-    "arch-road/Arch/Arch_-2/2-/2.0..md",
-    "arch-road/Arch/Arch_-2/1-/1.2..md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2.1. Интермедия- Аглая.md",
+    "arch-road/Arch/Arch_-2/structura/structure.md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_Иммакулата.md",
+    "arch-road/Arch/Arch_Plan(порвать)/Arch.md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/1.1. Интермедия- Мебельщик.md",
+    "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 4- Цели-.md",
+    "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 5- Событие-.md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/1. Вход. Первый Абзац..md",
+    "arch-road/Arch/Arch_-2/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
+    "arch-road/Arch/Arch_-2/1-/-R_struktura/14-R0_ad-АктА.md",
+    "arch-road/Arch/Arch_-2/1-/-R_struktura/-R_struktura.md",
+    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Построй его и они прийдут.md",
     "arch-road/Arch/Arch_-2/1-/1.0..md",
-    "arch-road/Arch/Arch_-2/1-/1.1..md",
-    "arch-road/Arch/Arch_-2/2-/2-spec/Arch_ -2 2-spec 4- Цели-.md",
-    "arch-road/Arch/Arch_-2/2-/2-spec/Arch_ -2 2-spec 5- Событие-.md",
-    "arch-road/Arch/Arch_-2/2-/2-spec/Arch_ -2 2-spec 1-Эпизод-.md",
-    "arch-road/Arch/Arch_-2/2-/2-spec/Arch_ -2 2-spec 1- Арка-.md",
+    "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 3- Заголовок-.md",
+    "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 2_Эпизод-1_.md",
     "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 1- Арка-.md",
-    "arch-road/Arch/Arch_-2/Vaul_Arc1.md",
-    "arch-road/Arch/Arch_-2/0-idea/0-idea.md",
-    "ДоХХХХоrm/old/2Бек/инфа/группы/Сонная Группа/люди/Юлия Люричева.md",
-    "ДоХХХХоrm/2Бек/инфа/роли/Марк Бессмертник.md",
-    "ДоХХХХоrm/2Бек/инфа/роли/Начальство/Канцелярия Императора.md",
-    "ДоХХХХоrm/old/2Бек/инфа/группы/Сонная Группа/люди/1_Юлия-Люричева-заметки.md",
-    "ДоХХХХоrm/old/2Бек/инфа/группы/Лилич.md",
-    "ДоХХХХоrm/old/2Бек/инфа/роли/Марк Бессмертник.md",
-    "ДоХХХХоrm/old/2Бек/инфа/роли/Анна Ангел.md",
-    "ДоХХХХоrm/old/2Бек/инфа/роли/Начальство/Инквизиторы/Герман Мебельщик Орф.md",
-    "ДоХХХХоrm/old/2Бек/инфа/роли/Начальство/Инквизиторы/Отчет Орфа.md",
-    "ДоХХХХоrm/old/2Бек/инфа/роли/Начальство/Канцелярия Императора.md",
-    "ДоХХХХоrm/old/2Бек/инфа/локации/под-Холмами.md",
-    "ДоХХХХоrm/old/2Бек/инфа/локации/Другая Сторона.md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata",
+    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 4.1. Помощь или запрет..md",
+    "arch-road/Arch/Arch_-2/4-Bern/4-Bern.md",
+    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Глашатай.md",
+    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/14-Fishki- Первый Абзац.md",
+    "arch-road/Arch/Arch_-2/4-Bern/-Bern/14-Bern- AglayaLilitch.md",
+    "arch-road/Arch/Arch_-2/3-Trip/3-Trip.md",
+    "arch-road/Arch/Arch_Plan(порвать)/2-R_struktura/2-R_struktura.md",
+    "arch-road/Arch/Arch_Plan(порвать)/2-R_struktura/-R_struktura/14-R0_ad- АктА.md",
+    "arch-road/Arch/Arch_-2/0_Foundation/Teatr.md",
+    "arch-road/Arch/Arch_-2/structura/r2_",
+    "arch-road/Arch/Arch_-2/structura",
     "ДоХХХХоrm/2Бек/инфа/роли/Начальство",
     "ДоХХХХоrm/2Бек/инфа/роли",
     "ДоХХХХоrm/2Бек/инфа",
     "ДоХХХХоrm/2Бек",
-    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/горхон степь/Театр.md",
     "arch-road/Arch/Arch_-2/Потом/Марк",
     "arch-road/Arch/Arch_-2/Потом/Орф/Untitled",
     "arch-road/Arch/Arch_-2/Потом/Орф",
-    "arch-road/Arch/Arch_-2/Потом/Аглая/Untitled",
-    "arch-road/Arch/Arch_-2/Потом/Аглая",
-    "arch-road/Arch/Arch_-2/Потом/Нина",
     "arch-road/Arch/0-idea/-idea/Untitled.canvas",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",

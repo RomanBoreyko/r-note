@@ -1,5 +1,0 @@
-[[arch-road/Arch/Arch_Plan/0-spec/-spec/1- Арка-]]
-[[arch-road/Arch/Arch_Plan/0-spec/-spec/2- Эпизод-]]
-[[arch-road/Arch/Arch_Plan/0-spec/-spec/3- Заголовок-]]
-[[arch-road/Arch/Arch_Plan/0-spec/-spec/4- Цели-]]
-[[arch-road/Arch/Arch_Plan/0-spec/-spec/5- Событие-]]

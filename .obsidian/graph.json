@@ -1,5 +1,5 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": true,
   "showAttachments": true,
@@ -27,18 +27,32 @@
         "a": 1,
         "rgb": 11657298
       }
+    },
+    {
+      "query": "path:arch-road/Arch/Arch_Plan  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "path:arch-road/Arch/Arch_-2  ",
+      "color": {
+        "a": 1,
+        "rgb": 14734418
+      }
     }
   ],
   "collapse-display": true,
   "showArrow": true,
-  "textFadeMultiplier": -3,
-  "nodeSizeMultiplier": 1.13700927908637,
-  "lineSizeMultiplier": 1.08104925053533,
+  "textFadeMultiplier": -2.3,
+  "nodeSizeMultiplier": 1.05306923625981,
+  "lineSizeMultiplier": 0.857209136331192,
   "collapse-forces": false,
-  "centerStrength": 0.130208333333333,
-  "repelStrength": 6.5625,
+  "centerStrength": 0,
+  "repelStrength": 0,
   "linkStrength": 1,
-  "linkDistance": 431,
+  "linkDistance": 494,
   "scale": 0.3003387451171875,
-  "close": true
+  "close": false
 }
