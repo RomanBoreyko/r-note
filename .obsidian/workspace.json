@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -70,7 +70,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 423.5110321044922
+    "width": 365.5110321044922
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md"
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md"
               }
             }
           },
@@ -136,7 +136,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -161,6 +161,13 @@
                       "color": {
                         "a": 1,
                         "rgb": 14725458
+                      }
+                    },
+                    {
+                      "query": "tag:#",
+                      "color": {
+                        "a": 1,
+                        "rgb": 11657298
                       }
                     }
                   ],
@@ -198,8 +205,28 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "45e98d0f552ba1a8",
+  "active": "80ad6298f45805c8",
   "lastOpenFiles": [
+    "arch-road/Arch/Arch_-2/2-/2.1..md",
+    "arch-road/Arch/Arch_-2/4-Bern/6.1. Кукиш.md",
+    "arch-road/Arch/Arch_-2/4-Bern/6. Куш.md",
+    "arch-road/Arch/Arch_-2/4-Bern/5.1. Замешательство.md",
+    "arch-road/Arch/Arch_-2/4-Bern/5. Невмешательство.md",
+    "arch-road/Arch/Arch_-2/4-Bern/4. Переключение по Берну.md",
+    "arch-road/Arch/Arch_-2/4-Bern/3. Подставка по Берну.md",
+    "arch-road/Arch/Arch_-2/4-Bern/2. Слабина по Берну.md",
+    "arch-road/Arch/Arch_-2/4-Bern/1. Крючек по Берну.md",
+    "arch-road/Arch/Arch_-2/4-Bern/4-Bern.md",
+    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
+    "arch-road/Arch/Arch_-2/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
+    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 2.1. Импульс. Нарушение-.md",
+    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 1. Мир обыденной рутины.md",
+    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 0. База..md",
+    "ДоХХХХоrm/old/3_грязные-тулзы/Петросян Мариам - Дом, в котором… - 2007.fb2.txt",
+    "arch-road/Arch/Arch_-2/0-idea/0-idea.md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
+    "arch-road/Arch/Arch_-2/structura/r2_/r2_Palanquin",
+    "arch-road/Arch/Arch_-2/structura/r1_",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2.1. Интермедия- Аглая.md",
     "arch-road/Arch/Arch_-2/structura/structure.md",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_Иммакулата.md",
@@ -207,35 +234,15 @@
     "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/1.1. Интермедия- Мебельщик.md",
     "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 4- Цели-.md",
     "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 5- Событие-.md",
-    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/1. Вход. Первый Абзац..md",
-    "arch-road/Arch/Arch_-2/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
     "arch-road/Arch/Arch_-2/1-/-R_struktura/14-R0_ad-АктА.md",
-    "arch-road/Arch/Arch_-2/1-/-R_struktura/-R_struktura.md",
-    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Построй его и они прийдут.md",
-    "arch-road/Arch/Arch_-2/1-/1.0..md",
-    "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 3- Заголовок-.md",
-    "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 2_Эпизод-1_.md",
-    "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 1- Арка-.md",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 4.1. Помощь или запрет..md",
-    "arch-road/Arch/Arch_-2/4-Bern/4-Bern.md",
-    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Глашатай.md",
-    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/14-Fishki- Первый Абзац.md",
-    "arch-road/Arch/Arch_-2/4-Bern/-Bern/14-Bern- AglayaLilitch.md",
-    "arch-road/Arch/Arch_-2/3-Trip/3-Trip.md",
-    "arch-road/Arch/Arch_Plan(порвать)/2-R_struktura/2-R_struktura.md",
-    "arch-road/Arch/Arch_Plan(порвать)/2-R_struktura/-R_struktura/14-R0_ad- АктА.md",
-    "arch-road/Arch/Arch_-2/0_Foundation/Teatr.md",
     "arch-road/Arch/Arch_-2/structura/r2_",
     "arch-road/Arch/Arch_-2/structura",
     "ДоХХХХоrm/2Бек/инфа/роли/Начальство",
     "ДоХХХХоrm/2Бек/инфа/роли",
     "ДоХХХХоrm/2Бек/инфа",
     "ДоХХХХоrm/2Бек",
-    "arch-road/Arch/Arch_-2/Потом/Марк",
-    "arch-road/Arch/Arch_-2/Потом/Орф/Untitled",
-    "arch-road/Arch/Arch_-2/Потом/Орф",
     "arch-road/Arch/0-idea/-idea/Untitled.canvas",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
