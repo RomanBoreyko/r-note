@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d1c2603fc6ba6d8b",
+        "id": "fc410d925a759fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "45e98d0f552ba1a8",
+            "id": "735b6fb2dc77f76e",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "500f72eb511f2a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md"
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md"
               }
             }
           },
@@ -136,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
+                "file": "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -147,7 +161,7 @@
                   "showTags": true,
                   "showAttachments": true,
                   "hideUnresolved": true,
-                  "collapse-color-groups": false,
+                  "collapse-color-groups": true,
                   "colorGroups": [
                     {
                       "query": "tag:#Вход  ",
@@ -171,17 +185,17 @@
                       }
                     }
                   ],
-                  "collapse-display": true,
-                  "showArrow": false,
-                  "textFadeMultiplier": 0,
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": -3,
                   "nodeSizeMultiplier": 1,
-                  "lineSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1.61266952177016,
                   "collapse-forces": false,
-                  "centerStrength": 0.518713248970312,
+                  "centerStrength": 0.0688793718772306,
                   "repelStrength": 10,
                   "linkStrength": 1,
-                  "linkDistance": 250,
-                  "scale": 0.4770433222708742,
+                  "linkDistance": 301,
+                  "scale": 0.4770433222708741,
                   "close": true
                 }
               }
@@ -192,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 677.5
+    "width": 675.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -205,8 +219,10 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80ad6298f45805c8",
+  "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
+    "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
+    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
     "arch-road/Arch/Arch_-2/2-/2.1..md",
     "arch-road/Arch/Arch_-2/4-Bern/6.1. Кукиш.md",
     "arch-road/Arch/Arch_-2/4-Bern/6. Куш.md",
@@ -217,7 +233,6 @@
     "arch-road/Arch/Arch_-2/4-Bern/2. Слабина по Берну.md",
     "arch-road/Arch/Arch_-2/4-Bern/1. Крючек по Берну.md",
     "arch-road/Arch/Arch_-2/4-Bern/4-Bern.md",
-    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
     "arch-road/Arch/Arch_-2/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
     "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 2.1. Импульс. Нарушение-.md",
     "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 1. Мир обыденной рутины.md",
@@ -235,7 +250,6 @@
     "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 4- Цели-.md",
     "arch-road/Arch/Arch_-2/1-/1-spec/Arch_ -2 1-spec 5- Событие-.md",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/1. Вход. Первый Абзац..md",
-    "arch-road/Arch/Arch_-2/1-/-R_struktura/14-R0_ad-АктА.md",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata",
     "arch-road/Arch/Arch_-2/structura/r2_",
     "arch-road/Arch/Arch_-2/structura",
