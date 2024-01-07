@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Червь.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 239.5110321044922
+    "width": 200
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Червь.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Червь.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md"
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Червь.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Червь.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 301,
-                  "scale": 2.060713502799369,
+                  "scale": 0.6105817786072203,
                   "close": true
                 }
               }
@@ -221,12 +221,16 @@
   },
   "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
+    "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/Червь.md",
+    "arch-road/Arch/Arch_-2/4-Bern/1. Крючек по Берну.md",
+    "arch-road/Arch/Arch_-2/7-Prop/-Prop/14-Prop- I. отлучка, е.md",
+    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 2.1. Импульс. Нарушение-.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/Марк..md",
     "ДоХХХХоrm/old/3_грязные-тулзы/марк. вневременная интермедия",
     "ДоХХХХоrm/old/3_грязные-тулзы/Столица. Первый абзац.",
     "ДоХХХХоrm/old/2Бек/инфа/группы/Сонная Группа/люди/00_Тарантул.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
     "ДоХХХХоrm/old/2Бек/инфа/группы/Сонная Группа/люди/Тарантул.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/Марк..md",
     "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
     "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
     "ДоХХХХоrm/old/4_core/мех/чучела/Чучело.md",
@@ -246,9 +250,6 @@
     "arch-road/Arch/Arch_-2/4-Bern/6. Куш.md",
     "arch-road/Arch/Arch_-2/4-Bern/5.1. Замешательство.md",
     "arch-road/Arch/Arch_-2/4-Bern/5. Невмешательство.md",
-    "arch-road/Arch/Arch_-2/4-Bern/4. Переключение по Берну.md",
-    "arch-road/Arch/Arch_-2/4-Bern/3. Подставка по Берну.md",
-    "arch-road/Arch/Arch_-2/4-Bern/2. Слабина по Берну.md",
     "ДоХХХХоrm/old/3_грязные-тулзы/Петросян Мариам - Дом, в котором… - 2007.fb2.txt",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_Palanquin",
     "arch-road/Arch/Arch_-2/structura/r1_",
@@ -256,7 +257,6 @@
     "arch-road/Arch/Arch_-2/structura/r2_",
     "arch-road/Arch/Arch_-2/structura",
     "ДоХХХХоrm/2Бек/инфа/роли/Начальство",
-    "ДоХХХХоrm/2Бек/инфа/роли",
     "arch-road/Arch/0-idea/-idea/Untitled.canvas",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
