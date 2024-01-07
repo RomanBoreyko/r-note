@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/8- _Сверх-задача_Foundation.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 365.5110321044922
+    "width": 239.5110321044922
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/8- _Сверх-задача_Foundation.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/8- _Сверх-задача_Foundation.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/8- _Сверх-задача_Foundation.md"
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/8- _Сверх-задача_Foundation.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 301,
-                  "scale": 0.4770433222708741,
+                  "scale": 2.060713502799369,
                   "close": true
                 }
               }
@@ -221,12 +221,24 @@
   },
   "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
-    "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/9- _Сквозное-действие_Foundation.md",
+    "ДоХХХХоrm/old/2Бек/инфа/группы/Сонная Группа/люди/00_Тарантул.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/Тарантул.md",
+    "ДоХХХХоrm/old/2Бек/инфа/группы/Сонная Группа/люди/Тарантул.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/Марк..md",
+    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
+    "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
+    "ДоХХХХоrm/old/4_core/мех/чучела/Чучело.md",
+    "arch-road/Arch/Arch_-2/8-Abzats",
+    "ДоХХХХоrm/old/4_core/мех/Как убить в себе кукушку/Сценарий.md",
+    "ДоХХХХоrm/old/4_core/мех/Как убить в себе кукушку/Структура-персов.md",
+    "ДоХХХХоrm/old/4_core/мех/Как убить в себе кукушку/Игры_Сказка_Oбёртка.md",
+    "ДоХХХХоrm/old/4_core/мех/Как убить в себе кукушку/Игра.md",
+    "ДоХХХХоrm/old/4_core/list-of-head/0-dom-truppa-breena.md",
+    "ДоХХХХоrm/old/4_core/0м. 0. Фольклор к R(comedy)..md",
     "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/8- _Сверх-задача_Foundation.md",
+    "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/9- _Сквозное-действие_Foundation.md",
     "arch-road/Arch/Arch_-2/0_Foundation/-Teatr_Foundation/11- _Контр-свозное-действие_Foundation.md",
     "arch-road/Arch/Arch_-2/7-Prop/-Prop/14-Prop- III. Запрет нарушается (нарушение, b).md",
-    "ДоХХХХоrm/old/3_грязные-тулзы/Кукла. February 32th 2011. Brockton Bay. 8 дней после атаки Симург..md",
-    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
     "arch-road/Arch/Arch_-2/2-/2.1..md",
     "arch-road/Arch/Arch_-2/4-Bern/6.1. Кукиш.md",
     "arch-road/Arch/Arch_-2/4-Bern/6. Куш.md",
@@ -236,27 +248,15 @@
     "arch-road/Arch/Arch_-2/4-Bern/3. Подставка по Берну.md",
     "arch-road/Arch/Arch_-2/4-Bern/2. Слабина по Берну.md",
     "arch-road/Arch/Arch_-2/4-Bern/1. Крючек по Берну.md",
-    "arch-road/Arch/Arch_-2/4-Bern/4-Bern.md",
-    "arch-road/Arch/Arch_-2/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 2.1. Импульс. Нарушение-.md",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 1. Мир обыденной рутины.md",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 0. База..md",
     "ДоХХХХоrm/old/3_грязные-тулзы/Петросян Мариам - Дом, в котором… - 2007.fb2.txt",
-    "arch-road/Arch/Arch_-2/0-idea/0-idea.md",
-    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2. Вход. Ландшафт..md",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_Palanquin",
     "arch-road/Arch/Arch_-2/structura/r1_",
-    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata/2.1. Интермедия- Аглая.md",
-    "arch-road/Arch/Arch_-2/structura/structure.md",
-    "arch-road/Arch/Arch_-2/structura/r2_/r2_Иммакулата.md",
-    "arch-road/Arch/Arch_Plan(порвать)/Arch.md",
     "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata",
     "arch-road/Arch/Arch_-2/structura/r2_",
     "arch-road/Arch/Arch_-2/structura",
     "ДоХХХХоrm/2Бек/инфа/роли/Начальство",
     "ДоХХХХоrm/2Бек/инфа/роли",
     "ДоХХХХоrm/2Бек/инфа",
-    "ДоХХХХоrm/2Бек",
     "arch-road/Arch/0-idea/-idea/Untitled.canvas",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
