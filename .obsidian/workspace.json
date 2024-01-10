@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 434.5110321044922
+    "width": 248.5110321044922
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md"
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 675.5
+    "width": 653.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,9 +221,10 @@
   },
   "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
-    "arch-road/Arch/Arch_-2/8-Abzats/6. Нина Лилич.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
+    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
     "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
+    "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/6. Нина Лилич.md",
     "arch-road/Arch/Arch_-2/4-Bern/5. Невмешательство.md",
     "arch-road/Arch/Arch_-2/4-Bern/4. Переключение по Берну.md",
     "arch-road/Arch/Arch_-2/8-Abzats/3. Матушка Анна.md",
@@ -246,7 +247,6 @@
     "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 3. Отказ от призыва.md",
     "arch-road/Arch/Arch_Fakt-1(порвать)/3- 14-Kembel-1-5-end-of-the-enter/1.2. 14-Kembel- 3. Отказ от призыва. 6. Фейковый Отказ./1. 14-Kembel- 3. Отказ от призыва. орф.md",
     "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 2.2. Призыв к приключению. 1.md",
-    "ДоХХХХоrm/old/2Бек/инфа/заметки/глубже/1_Блюм.md",
     "arch-road/Arch/Arch_Fakt-1(порвать)/2-MarkBessmertnik",
     "ДоХХХХоrm/old/3_грязные-тулзы/марк. вневременная интермедия",
     "ДоХХХХоrm/old/3_грязные-тулзы/Столица. Первый абзац.",
