@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md"
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 301,
-                  "scale": 0.40705451907148016,
+                  "scale": 0.6105817786072203,
                   "close": true
                 }
               }
@@ -221,15 +221,18 @@
   },
   "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
-    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
     "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
+    "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
+    "arch-road/Arch/Arch_-2/8-Abzats/3. Матушка Анна.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/2. Червь.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/0. Марк..md",
+    "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
     "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
     "arch-road/Arch/Arch_-2/8-Abzats/6. Нина Лилич.md",
     "arch-road/Arch/Arch_-2/4-Bern/5. Невмешательство.md",
     "arch-road/Arch/Arch_-2/4-Bern/4. Переключение по Берну.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/3. Матушка Анна.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/4. С.Д..md",
-    "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
+    "arch-road/Arch/Arch_-2/8-Abzats/7. С.Д..md",
     "arch-road/Arch/Arch_-2/2-/2.1..md",
     "arch-road/Arch/Arch_-2/2-/2.2. Призыв к приключению и II. запрет, б mixin.md",
     "arch-road/Arch/Arch_-2/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
@@ -239,14 +242,11 @@
     "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Оборотень..md",
     "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Примаматерия. Алхимия..md",
     "arch-road/Arch/Arch_-2/7-Prop/-Prop/14-Prop- III. Запрет нарушается (нарушение, b).md",
-    "arch-road/Arch/Arch_-2/8-Abzats/2. Червь.md",
     "arch-road/Arch/Arch_-2/7-Prop/-Prop/14-Prop- II. К герою обращаются с запретом (запрет, б).md",
     "arch-road/Arch/Arch_-2/6-Kembel/6-Kembel.md",
     "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 4.1. Помощь или запрет..md",
     "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 4. Встреча с наставником..md",
     "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 3. Отказ от призыва.md",
-    "arch-road/Arch/Arch_Fakt-1(порвать)/3- 14-Kembel-1-5-end-of-the-enter/1.2. 14-Kembel- 3. Отказ от призыва. 6. Фейковый Отказ./1. 14-Kembel- 3. Отказ от призыва. орф.md",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 2.2. Призыв к приключению. 1.md",
     "arch-road/Arch/Arch_Fakt-1(порвать)/2-MarkBessmertnik",
     "ДоХХХХоrm/old/3_грязные-тулзы/марк. вневременная интермедия",
     "ДоХХХХоrm/old/3_грязные-тулзы/Столица. Первый абзац.",
