@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md"
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
+                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 301,
-                  "scale": 0.6105817786072203,
+                  "scale": 0.40705451907148016,
                   "close": true
                 }
               }
@@ -221,8 +221,8 @@
   },
   "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
-    "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
     "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
+    "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
     "arch-road/Arch/Arch_-2/8-Abzats/3. Матушка Анна.md",
     "arch-road/Arch/Arch_-2/8-Abzats/2. Червь.md",
     "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
