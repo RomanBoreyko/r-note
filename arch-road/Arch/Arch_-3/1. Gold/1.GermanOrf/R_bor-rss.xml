@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Название подкаста</title>
+    <description>Описание подкаста</image>
+    <link>URL веб-сайта подкаста</link>
+    <copyright>Copyright (c) 2023, Автор подкаста</copyright>
+    <language>ru-RU</language>
+    <itunes:owner>
+      <itunes:name>Автор подкаста</itunes:name>
+      <itunes:email>email@example.com</itunes:email>
+    </itunes:owner>
+    <itunes:subtitle>Подзаголовок подкаста</itunes:subtitle>
+    <itunes:summary>Краткое описание подкаста</itunes:summary>
+    <itunes:author>Автор подкаста</itunes:author>
+    <itunes:category>Категория подкаста</itunes:category>
+    <itunes:keywords>Ключевые слова подкаста</itunes:keywords>
+    <itunes:image href="URL изображения подкаста"/>
+    <item>
+      <title>Название выпуска</title>
+      <description>Описание выпуска</description>
+      <pubDate>2023-01-01T00:00:00Z</pubDate>
+      <duration>00:00:00</duration>
+      <link>URL выпуска</link>
+      <enclosure url="URL файла выпуска" type="audio/mpeg"/>
+    </item>
+  </channel>
+</rss>
