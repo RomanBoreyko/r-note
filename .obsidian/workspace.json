@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#14-R0_ad-АктА",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -84,7 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 248.5110321044922
+    "width": 284.5
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md"
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 653.5
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,42 +221,42 @@
   },
   "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
-    "arch-road/Arch/Arch_-2/8-Abzats/6. Мебельщик..md",
-    "arch-road/Arch/Arch_-2/8-Abzats/5. Люричева..md",
-    "arch-road/Arch/Arch_-2/8-Abzats/3. Матушка Анна.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/2. Червь.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Медкорпус.md",
+    "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
+    "Медкорпус.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Страна.md",
+    "ДоХХХХоrm/old/2Бек/инфа/функции/Вневременная спираль.md",
+    "ДоХХХХоrm/2Бек/инфа/локации/Страна/Страна.md",
+    "ДоХХХХоrm/2Бек/инфа/локации/Страна",
+    "ДоХХХХоrm/2Бек/инфа/локации",
+    "ДоХХХХоrm/old/2Бек/инфа/группы/Удурги/Сущьность Хранителя Времени.md",
+    "ДоХХХХоrm/old/2Бек/инфа/функции/Линии.md",
+    "ДоХХХХоrm/old/2Бек/инфа/группы/Уклад.md",
+    "ДоХХХХоrm/old/2Бек/инфа/Проекты/Фундамент.md",
+    "ДоХХХХоrm/old/2Бек/инфа/Проекты/Проект Арчприятия.md",
     "arch-road/Arch/Arch_-2/8-Abzats/1. Тарантул.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/0. Марк..md",
+    "ДоХХХХоrm/old/2Бек/инфа/Проекты/Проект Продприятия.md",
+    "ДоХХХХоrm/old/2Бек/инфа/Проекты",
+    "ДоХХХХоrm/old/2Бек/инфа/роли/Институт Государственной Инквизиции/Ящики.md",
+    "ДоХХХХоrm/old/2Бек/инфа/роли/Медкорпус/Пауки.md",
+    "ДоХХХХоrm/old/2Бек/инфа/роли/Институт Государственной Инквизиции/Инквизиторы.md",
+    "ДоХХХХоrm/old/2Бек/инфа/группы/Инквизиция.md",
+    "ДоХХХХоrm/old/2Бек/инфа/роли/Институт Государственной Инквизиции",
+    "ДоХХХХоrm/old/2Бек/инфа/роли/Медкорпус",
+    "ДоХХХХоrm/old/2Бек/инфа/роли/Император.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Институт Государственной Инквизиции.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Штаб Армии.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Столица.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/1_Столица.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Пустыри.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Серый Дом.md",
+    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Холодный-Холл.md",
     "ДоХХХХоrm/old/3_грязные-тулзы/АрчДомСтартКурильщик.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/7. Бри.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/6. Нина Лилич.md",
-    "arch-road/Arch/Arch_-2/4-Bern/5. Невмешательство.md",
-    "arch-road/Arch/Arch_-2/4-Bern/4. Переключение по Берну.md",
-    "arch-road/Arch/Arch_-2/8-Abzats/7. С.Д..md",
-    "arch-road/Arch/Arch_-2/2-/2.1..md",
-    "arch-road/Arch/Arch_-2/2-/2.2. Призыв к приключению и II. запрет, б mixin.md",
-    "arch-road/Arch/Arch_-2/3-Trip/-Trip/14-Trip- Вход. Союзники. Импульс. Мотивация. Стимул..md",
-    "arch-road/Arch/Arch_-2/4-Bern/4-Bern.md",
-    "arch-road/Arch/Arch_-2/4-Bern/3. Подставка по Берну.md",
-    "arch-road/Arch/Arch_-2/4-Bern/2. Слабина по Берну.md",
-    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Оборотень..md",
-    "arch-road/Arch/Arch_-2/5-Fishki/-Fishki/15-Fishki- Примаматерия. Алхимия..md",
-    "arch-road/Arch/Arch_-2/7-Prop/-Prop/14-Prop- III. Запрет нарушается (нарушение, b).md",
-    "arch-road/Arch/Arch_-2/7-Prop/-Prop/14-Prop- II. К герою обращаются с запретом (запрет, б).md",
-    "arch-road/Arch/Arch_-2/6-Kembel/6-Kembel.md",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 4.1. Помощь или запрет..md",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 4. Встреча с наставником..md",
-    "arch-road/Arch/Arch_-2/6-Kembel/-Kembel/14-Kembel- 3. Отказ от призыва.md",
     "arch-road/Arch/Arch_Fakt-1(порвать)/2-MarkBessmertnik",
     "ДоХХХХоrm/old/3_грязные-тулзы/марк. вневременная интермедия",
     "ДоХХХХоrm/old/3_грязные-тулзы/Столица. Первый абзац.",
     "arch-road/Arch/Arch_-2/8-Abzats",
     "ДоХХХХоrm/old/3_грязные-тулзы/Петросян Мариам - Дом, в котором… - 2007.fb2.txt",
-    "arch-road/Arch/Arch_-2/structura/r2_/r2_Palanquin",
-    "arch-road/Arch/Arch_-2/structura/r1_",
-    "arch-road/Arch/Arch_-2/structura/r2_/r2_immaculata",
-    "arch-road/Arch/Arch_-2/structura/r2_",
-    "arch-road/Arch/Arch_-2/structura",
     "arch-road/Arch/0-idea/-idea/Untitled.canvas",
     "img/Pasted image 20230619185651.png",
     "img/SteppeMap.webp",
