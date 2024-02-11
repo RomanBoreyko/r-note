@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -84,8 +84,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5,
-    "collapsed": true
+    "width": 300.5
   },
   "right": {
     "id": "ae78e9df3e97ab8f",
@@ -101,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -141,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md"
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md"
               }
             }
           },
@@ -151,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -207,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 1076.8
+    "width": 673.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -220,15 +219,16 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "80ad6298f45805c8",
+  "active": "2d57f2927954979f",
   "lastOpenFiles": [
+    "arch-road/Arch/Arch_-5/0. Тарантул/0. Пролог.md",
+    "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Другая Сторона.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Столица.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Дом Каиных.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Дом Лиличей.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Театр.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Резиденция Властей.md",
-    "arch-road/Arch/Arch_-5/0. Тарантул/Пролог.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Медкорпус.md",
     "Медкорпус.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Страна.md",
@@ -252,7 +252,6 @@
     "ДоХХХХоrm/old/2Бек/инфа/роли/Медкорпус",
     "ДоХХХХоrm/old/2Бек/инфа/роли/Император.md",
     "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Институт Государственной Инквизиции.md",
-    "ДоХХХХоrm/old/2Бек/инфа/локации/Страна/Столица/Штаб Армии.md",
     "arch-road/Arch/Arch_Fakt-1(порвать)/2-MarkBessmertnik",
     "ДоХХХХоrm/old/3_грязные-тулзы/марк. вневременная интермедия",
     "ДоХХХХоrm/old/3_грязные-тулзы/Столица. Первый абзац.",
