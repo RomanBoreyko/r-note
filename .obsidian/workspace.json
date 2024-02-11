@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/2. Жажда.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/2. Жажда.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/2. Жажда.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md"
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/2. Жажда.md"
               }
             }
           },
@@ -150,7 +150,7 @@
             "state": {
               "type": "localgraph",
               "state": {
-                "file": "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
+                "file": "arch-road/Arch/Arch_-5/0. Тарантул/2. Жажда.md",
                 "options": {
                   "collapse-filter": false,
                   "search": "",
@@ -195,7 +195,7 @@
                   "repelStrength": 10,
                   "linkStrength": 1,
                   "linkDistance": 301,
-                  "scale": 0.2713696793809868,
+                  "scale": 0.6105817786072203,
                   "close": true
                 }
               }
@@ -206,7 +206,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 673.5
+    "width": 671.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -221,8 +221,8 @@
   },
   "active": "500f72eb511f2a9c",
   "lastOpenFiles": [
-    "arch-road/Arch/Arch_-5/0. Тарантул/2. Жажда.md",
     "arch-road/Arch/Arch_-5/0. Тарантул/1. Золото.md",
+    "arch-road/Arch/Arch_-5/0. Тарантул/2. Жажда.md",
     "arch-road/Arch/Arch_-5/0. Тарантул/0. Пролог.md",
     "ДоХХХХоrm/old/2Бек/инфа/Проекты/мем-векселя.md",
     "ДоХХХХоrm/old/2Бек/инфа/Проекты/плексит бария.md",
