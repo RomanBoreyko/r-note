@@ -50,7 +50,16 @@ python text_analysis.py
     запуск
         pip install tensorflow transformers
 
+решено
 
+теперь кормежка
+
+    pip install transformers torch
+    pip install python-docx  # для работы с .docx файлами
+    pip install PyPDF2  # для работы с PDF файлами
+    pip install markdown  # для работы с markdown файлами
+
+    python analyze_all_files.py
 
 
 from transformers import pipeline
